@@ -20,33 +20,29 @@ public class Philosopher implements Runnable {
 	}
 	
 	public void run(){
+				//Thread loop, includes synchronized
 				while(true) {
-					
-					//The think as they eat and before/after they eat
-					Think();
-					
 					synchronized(leftFork) {
 						leftFork.Hold();
-						logger.info("Philosopher " + position + " picked up leftFork " + leftFork.position);
+						logger.info("Philosopher " + position + " picked up Fork " + leftFork.position);
 						synchronized(rightFork) {
 							rightFork.Hold();
-							logger.info("Philosopher " + position + " picked up rightFork " + rightFork.position);
+							logger.info("Philosopher " + position + " picked up Fork " + rightFork.position);
 						
-						
+							//If the current thread holds both their forks, they can eat
 							if(leftFork.inUse && rightFork.inUse) {
-								Eat();
+								Eat();			
 							}
 						}
 					}
-					
-				
+					Think(); //They think after or as they eat
 				}
 	}
 	
 	public void Think() {
 		try {
 			logger.info("Philosopher " + position + " is thinking...");
-			Thread.sleep(5000);
+			Thread.sleep(2000);
 		} catch (InterruptedException e) {
 			// TODO Auto-generated catch block
 			logger.warn("Philosopher " + position + " was interrupted.");
