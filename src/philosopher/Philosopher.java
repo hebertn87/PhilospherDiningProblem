@@ -1,7 +1,6 @@
 package philosopher;
 
 import fork.Fork;
-import log4j2.Log4J2PropertiesConf;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -28,9 +27,7 @@ public class Philosopher implements Runnable {
 					
 					synchronized(leftFork) {
 						leftFork.Hold();
-						
 						logger.info("Philosopher " + position + " picked up leftFork " + leftFork.position);
-						System.out.println();
 						synchronized(rightFork) {
 							rightFork.Hold();
 							logger.info("Philosopher " + position + " picked up rightFork " + rightFork.position);
