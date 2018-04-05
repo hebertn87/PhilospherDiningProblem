@@ -2,6 +2,7 @@ package driver;
 
 import fork.Fork;
 import philosopher.Philosopher;
+import org.apache.logging.*;
 
 public class Driver {
 	public static void main(String[] args) {
@@ -26,7 +27,13 @@ public class Driver {
 			Fork leftFork = forks[i];
 			Fork rightFork = forks[(i + 1) % forks.length];
 			
-			thinker[i] = new Philosopher(leftFork, rightFork, i);
+			//If he is the last one set swap his forks so there is no deadlock
+			if(i == thinker.length -1 ) {
+				thinker[i] = new Philosopher(rightFork, leftFork, i);
+			}else {
+				thinker[i] = new Philosopher(leftFork, rightFork, i);
+			}
+			
 			Thread myThread = new Thread(thinker[i]);
 			myThread.start();
 		}
