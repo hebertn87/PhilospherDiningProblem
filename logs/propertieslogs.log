@@ -1,1005 +1,120 @@
-[INFO ] 2018-04-05 11:04:24.987 [Thread-5] Philosopher - Philosopher 4 is thinking...
-[INFO ] 2018-04-05 11:04:24.987 [Thread-3] Philosopher - Philosopher 2 is thinking...
-[INFO ] 2018-04-05 11:04:24.987 [Thread-1] Philosopher - Philosopher 0 is thinking...
-[INFO ] 2018-04-05 11:04:24.987 [Thread-2] Philosopher - Philosopher 1 is thinking...
-[INFO ] 2018-04-05 11:04:24.987 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:04:29.988 [Thread-3] Philosopher - Philosopher 2 picked up leftFork 2
-[INFO ] 2018-04-05 11:04:29.988 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:04:29.988 [Thread-2] Philosopher - Philosopher 1 picked up leftFork 1
-[INFO ] 2018-04-05 11:04:29.988 [Thread-1] Philosopher - Philosopher 0 picked up leftFork 0
-[INFO ] 2018-04-05 11:04:29.990 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:04:29.990 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:04:29.990 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:04:29.990 [Thread-3] Philosopher - Philosopher 2 picked up rightFork 3
-[INFO ] 2018-04-05 11:04:29.990 [Thread-3] Philosopher - Philosopher 2 is eating.
-[INFO ] 2018-04-05 11:04:29.990 [Thread-3] Philosopher - Philosopher 2 is thinking...
-[INFO ] 2018-04-05 11:04:29.990 [Thread-2] Philosopher - Philosopher 1 picked up rightFork 2
-[INFO ] 2018-04-05 11:04:29.990 [Thread-2] Philosopher - Philosopher 1 is eating.
-[INFO ] 2018-04-05 11:04:29.990 [Thread-1] Philosopher - Philosopher 0 picked up rightFork 1
-[INFO ] 2018-04-05 11:04:29.990 [Thread-2] Philosopher - Philosopher 1 is thinking...
-[INFO ] 2018-04-05 11:04:29.990 [Thread-1] Philosopher - Philosopher 0 is eating.
-[INFO ] 2018-04-05 11:04:29.990 [Thread-5] Philosopher - Philosopher 4 picked up leftFork 0
-[INFO ] 2018-04-05 11:04:29.990 [Thread-1] Philosopher - Philosopher 0 is thinking...
-[INFO ] 2018-04-05 11:04:29.990 [Thread-5] Philosopher - Philosopher 4 picked up rightFork 4
-[INFO ] 2018-04-05 11:04:29.990 [Thread-5] Philosopher - Philosopher 4 is eating.
-[INFO ] 2018-04-05 11:04:29.990 [Thread-5] Philosopher - Philosopher 4 is thinking...
-[INFO ] 2018-04-05 11:04:35.003 [Thread-3] Philosopher - Philosopher 2 picked up leftFork 2
-[INFO ] 2018-04-05 11:04:35.003 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:04:35.003 [Thread-1] Philosopher - Philosopher 0 picked up leftFork 0
-[INFO ] 2018-04-05 11:04:35.003 [Thread-2] Philosopher - Philosopher 1 picked up leftFork 1
-[INFO ] 2018-04-05 11:04:35.004 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:04:35.004 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:04:35.005 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:04:35.005 [Thread-3] Philosopher - Philosopher 2 picked up rightFork 3
-[INFO ] 2018-04-05 11:04:35.005 [Thread-3] Philosopher - Philosopher 2 is eating.
-[INFO ] 2018-04-05 11:04:35.005 [Thread-3] Philosopher - Philosopher 2 is thinking...
-[INFO ] 2018-04-05 11:04:35.005 [Thread-2] Philosopher - Philosopher 1 picked up rightFork 2
-[INFO ] 2018-04-05 11:04:35.005 [Thread-2] Philosopher - Philosopher 1 is eating.
-[INFO ] 2018-04-05 11:04:35.005 [Thread-2] Philosopher - Philosopher 1 is thinking...
-[INFO ] 2018-04-05 11:04:35.005 [Thread-1] Philosopher - Philosopher 0 picked up rightFork 1
-[INFO ] 2018-04-05 11:04:35.005 [Thread-1] Philosopher - Philosopher 0 is eating.
-[INFO ] 2018-04-05 11:04:35.005 [Thread-1] Philosopher - Philosopher 0 is thinking...
-[INFO ] 2018-04-05 11:04:35.005 [Thread-5] Philosopher - Philosopher 4 picked up leftFork 0
-[INFO ] 2018-04-05 11:04:35.005 [Thread-5] Philosopher - Philosopher 4 picked up rightFork 4
-[INFO ] 2018-04-05 11:04:35.005 [Thread-5] Philosopher - Philosopher 4 is eating.
-[INFO ] 2018-04-05 11:04:35.005 [Thread-5] Philosopher - Philosopher 4 is thinking...
-[INFO ] 2018-04-05 11:04:40.019 [Thread-2] Philosopher - Philosopher 1 picked up leftFork 1
-[INFO ] 2018-04-05 11:04:40.019 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:04:40.019 [Thread-3] Philosopher - Philosopher 2 picked up leftFork 2
-[INFO ] 2018-04-05 11:04:40.019 [Thread-1] Philosopher - Philosopher 0 picked up leftFork 0
-[INFO ] 2018-04-05 11:04:40.019 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:04:40.020 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:04:40.020 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:04:40.020 [Thread-3] Philosopher - Philosopher 2 picked up rightFork 3
-[INFO ] 2018-04-05 11:04:40.020 [Thread-3] Philosopher - Philosopher 2 is eating.
-[INFO ] 2018-04-05 11:04:40.021 [Thread-2] Philosopher - Philosopher 1 picked up rightFork 2
-[INFO ] 2018-04-05 11:04:40.021 [Thread-3] Philosopher - Philosopher 2 is thinking...
-[INFO ] 2018-04-05 11:04:40.021 [Thread-2] Philosopher - Philosopher 1 is eating.
-[INFO ] 2018-04-05 11:04:40.021 [Thread-2] Philosopher - Philosopher 1 is thinking...
-[INFO ] 2018-04-05 11:04:40.021 [Thread-1] Philosopher - Philosopher 0 picked up rightFork 1
-[INFO ] 2018-04-05 11:04:40.021 [Thread-1] Philosopher - Philosopher 0 is eating.
-[INFO ] 2018-04-05 11:04:40.021 [Thread-1] Philosopher - Philosopher 0 is thinking...
-[INFO ] 2018-04-05 11:04:40.021 [Thread-5] Philosopher - Philosopher 4 picked up leftFork 0
-[INFO ] 2018-04-05 11:04:40.021 [Thread-5] Philosopher - Philosopher 4 picked up rightFork 4
-[INFO ] 2018-04-05 11:04:40.021 [Thread-5] Philosopher - Philosopher 4 is eating.
-[INFO ] 2018-04-05 11:04:40.021 [Thread-5] Philosopher - Philosopher 4 is thinking...
-[INFO ] 2018-04-05 11:22:48.917 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:22:48.917 [Thread-3] Philosopher - Philosopher 2 is thinking...
-[INFO ] 2018-04-05 11:22:48.917 [Thread-5] Philosopher - Philosopher 4 is thinking...
-[INFO ] 2018-04-05 11:22:48.917 [Thread-2] Philosopher - Philosopher 1 is thinking...
-[INFO ] 2018-04-05 11:22:48.917 [Thread-1] Philosopher - Philosopher 0 is thinking...
-[INFO ] 2018-04-05 11:22:53.919 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:22:53.919 [Thread-1] Philosopher - Philosopher 0 picked up leftFork 0
-[INFO ] 2018-04-05 11:22:53.919 [Thread-3] Philosopher - Philosopher 2 picked up leftFork 2
-[INFO ] 2018-04-05 11:22:53.919 [Thread-2] Philosopher - Philosopher 1 picked up leftFork 1
-[INFO ] 2018-04-05 11:22:53.919 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:22:53.920 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:22:53.920 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:22:53.920 [Thread-3] Philosopher - Philosopher 2 picked up rightFork 3
-[INFO ] 2018-04-05 11:22:53.921 [Thread-3] Philosopher - Philosopher 2 is eating.
-[INFO ] 2018-04-05 11:22:53.921 [Thread-3] Philosopher - Philosopher 2 is thinking...
-[INFO ] 2018-04-05 11:22:53.921 [Thread-2] Philosopher - Philosopher 1 picked up rightFork 2
-[INFO ] 2018-04-05 11:22:53.921 [Thread-2] Philosopher - Philosopher 1 is eating.
-[INFO ] 2018-04-05 11:22:53.922 [Thread-1] Philosopher - Philosopher 0 picked up rightFork 1
-[INFO ] 2018-04-05 11:22:53.922 [Thread-2] Philosopher - Philosopher 1 is thinking...
-[INFO ] 2018-04-05 11:22:53.922 [Thread-1] Philosopher - Philosopher 0 is eating.
-[INFO ] 2018-04-05 11:22:53.923 [Thread-1] Philosopher - Philosopher 0 is thinking...
-[INFO ] 2018-04-05 11:22:53.923 [Thread-5] Philosopher - Philosopher 4 picked up leftFork 0
-[INFO ] 2018-04-05 11:22:53.923 [Thread-5] Philosopher - Philosopher 4 picked up rightFork 4
-[INFO ] 2018-04-05 11:22:53.923 [Thread-5] Philosopher - Philosopher 4 is eating.
-[INFO ] 2018-04-05 11:22:53.924 [Thread-5] Philosopher - Philosopher 4 is thinking...
-[INFO ] 2018-04-05 11:22:58.920 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:22:58.920 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:22:58.921 [Thread-3] Philosopher - Philosopher 2 picked up leftFork 2
-[INFO ] 2018-04-05 11:22:58.921 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:22:58.921 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:22:58.921 [Thread-3] Philosopher - Philosopher 2 picked up rightFork 3
-[INFO ] 2018-04-05 11:22:58.921 [Thread-3] Philosopher - Philosopher 2 is eating.
-[INFO ] 2018-04-05 11:22:58.922 [Thread-2] Philosopher - Philosopher 1 picked up leftFork 1
-[INFO ] 2018-04-05 11:22:58.922 [Thread-3] Philosopher - Philosopher 2 is thinking...
-[INFO ] 2018-04-05 11:22:58.922 [Thread-2] Philosopher - Philosopher 1 picked up rightFork 2
-[INFO ] 2018-04-05 11:22:58.922 [Thread-2] Philosopher - Philosopher 1 is eating.
-[INFO ] 2018-04-05 11:22:58.923 [Thread-2] Philosopher - Philosopher 1 is thinking...
-[INFO ] 2018-04-05 11:22:58.923 [Thread-1] Philosopher - Philosopher 0 picked up leftFork 0
-[INFO ] 2018-04-05 11:22:58.923 [Thread-1] Philosopher - Philosopher 0 picked up rightFork 1
-[INFO ] 2018-04-05 11:22:58.923 [Thread-1] Philosopher - Philosopher 0 is eating.
-[INFO ] 2018-04-05 11:22:58.924 [Thread-1] Philosopher - Philosopher 0 is thinking...
-[INFO ] 2018-04-05 11:22:58.924 [Thread-5] Philosopher - Philosopher 4 picked up leftFork 0
-[INFO ] 2018-04-05 11:22:58.924 [Thread-5] Philosopher - Philosopher 4 picked up rightFork 4
-[INFO ] 2018-04-05 11:22:58.924 [Thread-5] Philosopher - Philosopher 4 is eating.
-[INFO ] 2018-04-05 11:22:58.925 [Thread-5] Philosopher - Philosopher 4 is thinking...
-[INFO ] 2018-04-05 11:23:03.921 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:23:03.921 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:23:03.921 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:23:03.922 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:23:03.922 [Thread-3] Philosopher - Philosopher 2 picked up leftFork 2
-[INFO ] 2018-04-05 11:23:03.922 [Thread-3] Philosopher - Philosopher 2 picked up rightFork 3
-[INFO ] 2018-04-05 11:23:03.922 [Thread-3] Philosopher - Philosopher 2 is eating.
-[INFO ] 2018-04-05 11:23:03.923 [Thread-3] Philosopher - Philosopher 2 is thinking...
-[INFO ] 2018-04-05 11:23:03.923 [Thread-2] Philosopher - Philosopher 1 picked up leftFork 1
-[INFO ] 2018-04-05 11:23:03.923 [Thread-2] Philosopher - Philosopher 1 picked up rightFork 2
-[INFO ] 2018-04-05 11:23:03.923 [Thread-2] Philosopher - Philosopher 1 is eating.
-[INFO ] 2018-04-05 11:23:03.924 [Thread-2] Philosopher - Philosopher 1 is thinking...
-[INFO ] 2018-04-05 11:23:03.924 [Thread-1] Philosopher - Philosopher 0 picked up leftFork 0
-[INFO ] 2018-04-05 11:23:03.924 [Thread-1] Philosopher - Philosopher 0 picked up rightFork 1
-[INFO ] 2018-04-05 11:23:03.924 [Thread-1] Philosopher - Philosopher 0 is eating.
-[INFO ] 2018-04-05 11:23:03.925 [Thread-1] Philosopher - Philosopher 0 is thinking...
-[INFO ] 2018-04-05 11:23:03.925 [Thread-5] Philosopher - Philosopher 4 picked up leftFork 0
-[INFO ] 2018-04-05 11:23:03.925 [Thread-5] Philosopher - Philosopher 4 picked up rightFork 4
-[INFO ] 2018-04-05 11:23:03.925 [Thread-5] Philosopher - Philosopher 4 is eating.
-[INFO ] 2018-04-05 11:23:03.926 [Thread-5] Philosopher - Philosopher 4 is thinking...
-[INFO ] 2018-04-05 11:23:08.922 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:23:08.923 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:23:08.923 [Thread-3] Philosopher - Philosopher 2 picked up leftFork 2
-[INFO ] 2018-04-05 11:23:08.923 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:23:08.923 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:23:08.924 [Thread-2] Philosopher - Philosopher 1 picked up leftFork 1
-[INFO ] 2018-04-05 11:23:08.925 [Thread-1] Philosopher - Philosopher 0 picked up leftFork 0
-[INFO ] 2018-04-05 11:23:08.928 [Thread-3] Philosopher - Philosopher 2 picked up rightFork 3
-[INFO ] 2018-04-05 11:23:08.928 [Thread-3] Philosopher - Philosopher 2 is eating.
-[INFO ] 2018-04-05 11:23:08.928 [Thread-3] Philosopher - Philosopher 2 is thinking...
-[INFO ] 2018-04-05 11:23:08.928 [Thread-2] Philosopher - Philosopher 1 picked up rightFork 2
-[INFO ] 2018-04-05 11:23:08.928 [Thread-2] Philosopher - Philosopher 1 is eating.
-[INFO ] 2018-04-05 11:23:08.928 [Thread-2] Philosopher - Philosopher 1 is thinking...
-[INFO ] 2018-04-05 11:23:08.928 [Thread-1] Philosopher - Philosopher 0 picked up rightFork 1
-[INFO ] 2018-04-05 11:23:08.928 [Thread-1] Philosopher - Philosopher 0 is eating.
-[INFO ] 2018-04-05 11:23:08.928 [Thread-1] Philosopher - Philosopher 0 is thinking...
-[INFO ] 2018-04-05 11:23:08.928 [Thread-5] Philosopher - Philosopher 4 picked up leftFork 0
-[INFO ] 2018-04-05 11:23:08.928 [Thread-5] Philosopher - Philosopher 4 picked up rightFork 4
-[INFO ] 2018-04-05 11:23:08.928 [Thread-5] Philosopher - Philosopher 4 is eating.
-[INFO ] 2018-04-05 11:23:08.928 [Thread-5] Philosopher - Philosopher 4 is thinking...
-[INFO ] 2018-04-05 11:23:13.923 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:23:13.923 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:23:13.923 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:23:13.924 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:23:13.944 [Thread-3] Philosopher - Philosopher 2 picked up leftFork 2
-[INFO ] 2018-04-05 11:23:13.944 [Thread-2] Philosopher - Philosopher 1 picked up leftFork 1
-[INFO ] 2018-04-05 11:23:13.944 [Thread-1] Philosopher - Philosopher 0 picked up leftFork 0
-[INFO ] 2018-04-05 11:23:13.944 [Thread-3] Philosopher - Philosopher 2 picked up rightFork 3
-[INFO ] 2018-04-05 11:23:13.944 [Thread-3] Philosopher - Philosopher 2 is eating.
-[INFO ] 2018-04-05 11:23:13.944 [Thread-3] Philosopher - Philosopher 2 is thinking...
-[INFO ] 2018-04-05 11:23:13.944 [Thread-2] Philosopher - Philosopher 1 picked up rightFork 2
-[INFO ] 2018-04-05 11:23:13.944 [Thread-2] Philosopher - Philosopher 1 is eating.
-[INFO ] 2018-04-05 11:23:13.944 [Thread-2] Philosopher - Philosopher 1 is thinking...
-[INFO ] 2018-04-05 11:23:13.944 [Thread-1] Philosopher - Philosopher 0 picked up rightFork 1
-[INFO ] 2018-04-05 11:23:13.944 [Thread-1] Philosopher - Philosopher 0 is eating.
-[INFO ] 2018-04-05 11:23:13.944 [Thread-1] Philosopher - Philosopher 0 is thinking...
-[INFO ] 2018-04-05 11:23:13.944 [Thread-5] Philosopher - Philosopher 4 picked up leftFork 0
-[INFO ] 2018-04-05 11:23:13.944 [Thread-5] Philosopher - Philosopher 4 picked up rightFork 4
-[INFO ] 2018-04-05 11:23:13.944 [Thread-5] Philosopher - Philosopher 4 is eating.
-[INFO ] 2018-04-05 11:23:13.944 [Thread-5] Philosopher - Philosopher 4 is thinking...
-[INFO ] 2018-04-05 11:23:18.924 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:23:18.924 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:23:18.924 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:23:18.925 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:23:18.944 [Thread-3] Philosopher - Philosopher 2 picked up leftFork 2
-[INFO ] 2018-04-05 11:23:18.944 [Thread-2] Philosopher - Philosopher 1 picked up leftFork 1
-[INFO ] 2018-04-05 11:23:18.944 [Thread-5] Philosopher - Philosopher 4 picked up leftFork 0
-[INFO ] 2018-04-05 11:23:18.944 [Thread-3] Philosopher - Philosopher 2 picked up rightFork 3
-[INFO ] 2018-04-05 11:23:18.944 [Thread-3] Philosopher - Philosopher 2 is eating.
-[INFO ] 2018-04-05 11:23:18.944 [Thread-5] Philosopher - Philosopher 4 picked up rightFork 4
-[INFO ] 2018-04-05 11:23:18.944 [Thread-3] Philosopher - Philosopher 2 is thinking...
-[INFO ] 2018-04-05 11:23:18.944 [Thread-5] Philosopher - Philosopher 4 is eating.
-[INFO ] 2018-04-05 11:23:18.944 [Thread-2] Philosopher - Philosopher 1 picked up rightFork 2
-[INFO ] 2018-04-05 11:23:18.944 [Thread-5] Philosopher - Philosopher 4 is thinking...
-[INFO ] 2018-04-05 11:23:18.944 [Thread-1] Philosopher - Philosopher 0 picked up leftFork 0
-[INFO ] 2018-04-05 11:23:18.944 [Thread-2] Philosopher - Philosopher 1 is eating.
-[INFO ] 2018-04-05 11:23:18.944 [Thread-2] Philosopher - Philosopher 1 is thinking...
-[INFO ] 2018-04-05 11:23:18.944 [Thread-1] Philosopher - Philosopher 0 picked up rightFork 1
-[INFO ] 2018-04-05 11:23:18.944 [Thread-1] Philosopher - Philosopher 0 is eating.
-[INFO ] 2018-04-05 11:23:18.944 [Thread-1] Philosopher - Philosopher 0 is thinking...
-[INFO ] 2018-04-05 11:23:23.925 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:23:23.925 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:23:23.925 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:23:23.926 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:23:23.945 [Thread-3] Philosopher - Philosopher 2 picked up leftFork 2
-[INFO ] 2018-04-05 11:23:23.945 [Thread-2] Philosopher - Philosopher 1 picked up leftFork 1
-[INFO ] 2018-04-05 11:23:23.945 [Thread-1] Philosopher - Philosopher 0 picked up leftFork 0
-[INFO ] 2018-04-05 11:23:23.945 [Thread-3] Philosopher - Philosopher 2 picked up rightFork 3
-[INFO ] 2018-04-05 11:23:23.945 [Thread-3] Philosopher - Philosopher 2 is eating.
-[INFO ] 2018-04-05 11:23:23.945 [Thread-3] Philosopher - Philosopher 2 is thinking...
-[INFO ] 2018-04-05 11:23:23.945 [Thread-2] Philosopher - Philosopher 1 picked up rightFork 2
-[INFO ] 2018-04-05 11:23:23.945 [Thread-2] Philosopher - Philosopher 1 is eating.
-[INFO ] 2018-04-05 11:23:23.945 [Thread-2] Philosopher - Philosopher 1 is thinking...
-[INFO ] 2018-04-05 11:23:23.945 [Thread-1] Philosopher - Philosopher 0 picked up rightFork 1
-[INFO ] 2018-04-05 11:23:23.945 [Thread-1] Philosopher - Philosopher 0 is eating.
-[INFO ] 2018-04-05 11:23:23.945 [Thread-1] Philosopher - Philosopher 0 is thinking...
-[INFO ] 2018-04-05 11:23:23.945 [Thread-5] Philosopher - Philosopher 4 picked up leftFork 0
-[INFO ] 2018-04-05 11:23:23.945 [Thread-5] Philosopher - Philosopher 4 picked up rightFork 4
-[INFO ] 2018-04-05 11:23:23.945 [Thread-5] Philosopher - Philosopher 4 is eating.
-[INFO ] 2018-04-05 11:23:23.945 [Thread-5] Philosopher - Philosopher 4 is thinking...
-[INFO ] 2018-04-05 11:23:28.927 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:23:28.928 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:23:28.928 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:23:28.928 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:23:28.945 [Thread-2] Philosopher - Philosopher 1 picked up leftFork 1
-[INFO ] 2018-04-05 11:23:28.945 [Thread-1] Philosopher - Philosopher 0 picked up leftFork 0
-[INFO ] 2018-04-05 11:23:28.945 [Thread-3] Philosopher - Philosopher 2 picked up leftFork 2
-[INFO ] 2018-04-05 11:23:28.945 [Thread-3] Philosopher - Philosopher 2 picked up rightFork 3
-[INFO ] 2018-04-05 11:23:28.945 [Thread-3] Philosopher - Philosopher 2 is eating.
-[INFO ] 2018-04-05 11:23:28.945 [Thread-3] Philosopher - Philosopher 2 is thinking...
-[INFO ] 2018-04-05 11:23:28.945 [Thread-2] Philosopher - Philosopher 1 picked up rightFork 2
-[INFO ] 2018-04-05 11:23:28.945 [Thread-2] Philosopher - Philosopher 1 is eating.
-[INFO ] 2018-04-05 11:23:28.945 [Thread-2] Philosopher - Philosopher 1 is thinking...
-[INFO ] 2018-04-05 11:23:28.945 [Thread-1] Philosopher - Philosopher 0 picked up rightFork 1
-[INFO ] 2018-04-05 11:23:28.945 [Thread-1] Philosopher - Philosopher 0 is eating.
-[INFO ] 2018-04-05 11:23:28.945 [Thread-1] Philosopher - Philosopher 0 is thinking...
-[INFO ] 2018-04-05 11:23:28.945 [Thread-5] Philosopher - Philosopher 4 picked up leftFork 0
-[INFO ] 2018-04-05 11:23:28.945 [Thread-5] Philosopher - Philosopher 4 picked up rightFork 4
-[INFO ] 2018-04-05 11:23:28.945 [Thread-5] Philosopher - Philosopher 4 is eating.
-[INFO ] 2018-04-05 11:23:28.945 [Thread-5] Philosopher - Philosopher 4 is thinking...
-[INFO ] 2018-04-05 11:23:33.943 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:23:33.943 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:23:33.943 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:23:33.944 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:23:33.945 [Thread-2] Philosopher - Philosopher 1 picked up leftFork 1
-[INFO ] 2018-04-05 11:23:33.945 [Thread-5] Philosopher - Philosopher 4 picked up leftFork 0
-[INFO ] 2018-04-05 11:23:33.945 [Thread-3] Philosopher - Philosopher 2 picked up leftFork 2
-[INFO ] 2018-04-05 11:23:33.945 [Thread-5] Philosopher - Philosopher 4 picked up rightFork 4
-[INFO ] 2018-04-05 11:23:33.945 [Thread-3] Philosopher - Philosopher 2 picked up rightFork 3
-[INFO ] 2018-04-05 11:23:33.945 [Thread-5] Philosopher - Philosopher 4 is eating.
-[INFO ] 2018-04-05 11:23:33.945 [Thread-3] Philosopher - Philosopher 2 is eating.
-[INFO ] 2018-04-05 11:23:33.945 [Thread-5] Philosopher - Philosopher 4 is thinking...
-[INFO ] 2018-04-05 11:23:33.945 [Thread-1] Philosopher - Philosopher 0 picked up leftFork 0
-[INFO ] 2018-04-05 11:23:33.945 [Thread-3] Philosopher - Philosopher 2 is thinking...
-[INFO ] 2018-04-05 11:23:33.945 [Thread-2] Philosopher - Philosopher 1 picked up rightFork 2
-[INFO ] 2018-04-05 11:23:33.945 [Thread-2] Philosopher - Philosopher 1 is eating.
-[INFO ] 2018-04-05 11:23:33.945 [Thread-2] Philosopher - Philosopher 1 is thinking...
-[INFO ] 2018-04-05 11:23:33.945 [Thread-1] Philosopher - Philosopher 0 picked up rightFork 1
-[INFO ] 2018-04-05 11:23:33.945 [Thread-1] Philosopher - Philosopher 0 is eating.
-[INFO ] 2018-04-05 11:23:33.945 [Thread-1] Philosopher - Philosopher 0 is thinking...
-[INFO ] 2018-04-05 11:23:38.959 [Thread-5] Philosopher - Philosopher 4 picked up leftFork 0
-[INFO ] 2018-04-05 11:23:38.959 [Thread-3] Philosopher - Philosopher 2 picked up leftFork 2
-[INFO ] 2018-04-05 11:23:38.959 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:23:38.959 [Thread-2] Philosopher - Philosopher 1 picked up leftFork 1
-[INFO ] 2018-04-05 11:23:38.959 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:23:38.959 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:23:38.960 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:23:38.960 [Thread-3] Philosopher - Philosopher 2 picked up rightFork 3
-[INFO ] 2018-04-05 11:23:38.960 [Thread-5] Philosopher - Philosopher 4 picked up rightFork 4
-[INFO ] 2018-04-05 11:23:38.960 [Thread-5] Philosopher - Philosopher 4 is eating.
-[INFO ] 2018-04-05 11:23:38.960 [Thread-3] Philosopher - Philosopher 2 is eating.
-[INFO ] 2018-04-05 11:23:38.960 [Thread-5] Philosopher - Philosopher 4 is thinking...
-[INFO ] 2018-04-05 11:23:38.960 [Thread-1] Philosopher - Philosopher 0 picked up leftFork 0
-[INFO ] 2018-04-05 11:23:38.961 [Thread-2] Philosopher - Philosopher 1 picked up rightFork 2
-[INFO ] 2018-04-05 11:23:38.960 [Thread-3] Philosopher - Philosopher 2 is thinking...
-[INFO ] 2018-04-05 11:23:38.961 [Thread-2] Philosopher - Philosopher 1 is eating.
-[INFO ] 2018-04-05 11:23:38.961 [Thread-2] Philosopher - Philosopher 1 is thinking...
-[INFO ] 2018-04-05 11:23:38.961 [Thread-1] Philosopher - Philosopher 0 picked up rightFork 1
-[INFO ] 2018-04-05 11:23:38.961 [Thread-1] Philosopher - Philosopher 0 is eating.
-[INFO ] 2018-04-05 11:23:38.961 [Thread-1] Philosopher - Philosopher 0 is thinking...
-[INFO ] 2018-04-05 11:23:43.974 [Thread-1] Philosopher - Philosopher 0 picked up leftFork 0
-[INFO ] 2018-04-05 11:23:43.974 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:23:43.974 [Thread-3] Philosopher - Philosopher 2 picked up leftFork 2
-[INFO ] 2018-04-05 11:23:43.974 [Thread-2] Philosopher - Philosopher 1 picked up leftFork 1
-[INFO ] 2018-04-05 11:23:43.974 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:23:43.975 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:23:43.975 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:23:43.975 [Thread-3] Philosopher - Philosopher 2 picked up rightFork 3
-[INFO ] 2018-04-05 11:23:43.975 [Thread-3] Philosopher - Philosopher 2 is eating.
-[INFO ] 2018-04-05 11:23:43.975 [Thread-3] Philosopher - Philosopher 2 is thinking...
-[INFO ] 2018-04-05 11:23:43.975 [Thread-2] Philosopher - Philosopher 1 picked up rightFork 2
-[INFO ] 2018-04-05 11:23:43.976 [Thread-2] Philosopher - Philosopher 1 is eating.
-[INFO ] 2018-04-05 11:23:43.976 [Thread-2] Philosopher - Philosopher 1 is thinking...
-[INFO ] 2018-04-05 11:23:43.976 [Thread-1] Philosopher - Philosopher 0 picked up rightFork 1
-[INFO ] 2018-04-05 11:23:43.976 [Thread-1] Philosopher - Philosopher 0 is eating.
-[INFO ] 2018-04-05 11:23:43.976 [Thread-1] Philosopher - Philosopher 0 is thinking...
-[INFO ] 2018-04-05 11:23:43.976 [Thread-5] Philosopher - Philosopher 4 picked up leftFork 0
-[INFO ] 2018-04-05 11:23:43.976 [Thread-5] Philosopher - Philosopher 4 picked up rightFork 4
-[INFO ] 2018-04-05 11:23:43.976 [Thread-5] Philosopher - Philosopher 4 is eating.
-[INFO ] 2018-04-05 11:23:43.976 [Thread-5] Philosopher - Philosopher 4 is thinking...
-[INFO ] 2018-04-05 11:23:48.976 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:23:48.976 [Thread-3] Philosopher - Philosopher 2 picked up leftFork 2
-[INFO ] 2018-04-05 11:23:48.976 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:23:48.976 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:23:48.977 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:23:48.977 [Thread-3] Philosopher - Philosopher 2 picked up rightFork 3
-[INFO ] 2018-04-05 11:23:48.977 [Thread-2] Philosopher - Philosopher 1 picked up leftFork 1
-[INFO ] 2018-04-05 11:23:48.977 [Thread-1] Philosopher - Philosopher 0 picked up leftFork 0
-[INFO ] 2018-04-05 11:23:48.977 [Thread-3] Philosopher - Philosopher 2 is eating.
-[INFO ] 2018-04-05 11:23:48.977 [Thread-3] Philosopher - Philosopher 2 is thinking...
-[INFO ] 2018-04-05 11:23:48.977 [Thread-2] Philosopher - Philosopher 1 picked up rightFork 2
-[INFO ] 2018-04-05 11:23:48.978 [Thread-2] Philosopher - Philosopher 1 is eating.
-[INFO ] 2018-04-05 11:23:48.978 [Thread-2] Philosopher - Philosopher 1 is thinking...
-[INFO ] 2018-04-05 11:23:48.978 [Thread-1] Philosopher - Philosopher 0 picked up rightFork 1
-[INFO ] 2018-04-05 11:23:48.978 [Thread-1] Philosopher - Philosopher 0 is eating.
-[INFO ] 2018-04-05 11:23:48.978 [Thread-1] Philosopher - Philosopher 0 is thinking...
-[INFO ] 2018-04-05 11:23:48.978 [Thread-5] Philosopher - Philosopher 4 picked up leftFork 0
-[INFO ] 2018-04-05 11:23:48.978 [Thread-5] Philosopher - Philosopher 4 picked up rightFork 4
-[INFO ] 2018-04-05 11:23:48.978 [Thread-5] Philosopher - Philosopher 4 is eating.
-[INFO ] 2018-04-05 11:23:48.978 [Thread-5] Philosopher - Philosopher 4 is thinking...
-[INFO ] 2018-04-05 11:23:53.990 [Thread-3] Philosopher - Philosopher 2 picked up leftFork 2
-[INFO ] 2018-04-05 11:23:53.990 [Thread-2] Philosopher - Philosopher 1 picked up leftFork 1
-[INFO ] 2018-04-05 11:23:53.990 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:23:53.990 [Thread-1] Philosopher - Philosopher 0 picked up leftFork 0
-[INFO ] 2018-04-05 11:23:53.990 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:23:53.991 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:23:53.991 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:23:53.991 [Thread-3] Philosopher - Philosopher 2 picked up rightFork 3
-[INFO ] 2018-04-05 11:23:53.991 [Thread-3] Philosopher - Philosopher 2 is eating.
-[INFO ] 2018-04-05 11:23:53.991 [Thread-3] Philosopher - Philosopher 2 is thinking...
-[INFO ] 2018-04-05 11:23:53.991 [Thread-2] Philosopher - Philosopher 1 picked up rightFork 2
-[INFO ] 2018-04-05 11:23:53.992 [Thread-2] Philosopher - Philosopher 1 is eating.
-[INFO ] 2018-04-05 11:23:53.992 [Thread-2] Philosopher - Philosopher 1 is thinking...
-[INFO ] 2018-04-05 11:23:53.992 [Thread-1] Philosopher - Philosopher 0 picked up rightFork 1
-[INFO ] 2018-04-05 11:23:53.992 [Thread-1] Philosopher - Philosopher 0 is eating.
-[INFO ] 2018-04-05 11:23:53.992 [Thread-1] Philosopher - Philosopher 0 is thinking...
-[INFO ] 2018-04-05 11:23:53.992 [Thread-5] Philosopher - Philosopher 4 picked up leftFork 0
-[INFO ] 2018-04-05 11:23:53.992 [Thread-5] Philosopher - Philosopher 4 picked up rightFork 4
-[INFO ] 2018-04-05 11:23:53.992 [Thread-5] Philosopher - Philosopher 4 is eating.
-[INFO ] 2018-04-05 11:23:53.992 [Thread-5] Philosopher - Philosopher 4 is thinking...
-[INFO ] 2018-04-05 11:23:59.006 [Thread-3] Philosopher - Philosopher 2 picked up leftFork 2
-[INFO ] 2018-04-05 11:23:59.006 [Thread-2] Philosopher - Philosopher 1 picked up leftFork 1
-[INFO ] 2018-04-05 11:23:59.006 [Thread-1] Philosopher - Philosopher 0 picked up leftFork 0
-[INFO ] 2018-04-05 11:23:59.006 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:23:59.006 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:23:59.007 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:23:59.007 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:23:59.007 [Thread-3] Philosopher - Philosopher 2 picked up rightFork 3
-[INFO ] 2018-04-05 11:23:59.007 [Thread-3] Philosopher - Philosopher 2 is eating.
-[INFO ] 2018-04-05 11:23:59.007 [Thread-3] Philosopher - Philosopher 2 is thinking...
-[INFO ] 2018-04-05 11:23:59.008 [Thread-2] Philosopher - Philosopher 1 picked up rightFork 2
-[INFO ] 2018-04-05 11:23:59.008 [Thread-2] Philosopher - Philosopher 1 is eating.
-[INFO ] 2018-04-05 11:23:59.008 [Thread-2] Philosopher - Philosopher 1 is thinking...
-[INFO ] 2018-04-05 11:23:59.008 [Thread-1] Philosopher - Philosopher 0 picked up rightFork 1
-[INFO ] 2018-04-05 11:23:59.008 [Thread-1] Philosopher - Philosopher 0 is eating.
-[INFO ] 2018-04-05 11:23:59.008 [Thread-1] Philosopher - Philosopher 0 is thinking...
-[INFO ] 2018-04-05 11:23:59.008 [Thread-5] Philosopher - Philosopher 4 picked up leftFork 0
-[INFO ] 2018-04-05 11:23:59.008 [Thread-5] Philosopher - Philosopher 4 picked up rightFork 4
-[INFO ] 2018-04-05 11:23:59.008 [Thread-5] Philosopher - Philosopher 4 is eating.
-[INFO ] 2018-04-05 11:23:59.008 [Thread-5] Philosopher - Philosopher 4 is thinking...
-[INFO ] 2018-04-05 11:24:04.022 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:24:04.022 [Thread-2] Philosopher - Philosopher 1 picked up leftFork 1
-[INFO ] 2018-04-05 11:24:04.022 [Thread-1] Philosopher - Philosopher 0 picked up leftFork 0
-[INFO ] 2018-04-05 11:24:04.022 [Thread-3] Philosopher - Philosopher 2 picked up leftFork 2
-[INFO ] 2018-04-05 11:24:04.022 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:24:04.023 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:24:04.023 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:24:04.023 [Thread-3] Philosopher - Philosopher 2 picked up rightFork 3
-[INFO ] 2018-04-05 11:24:04.023 [Thread-3] Philosopher - Philosopher 2 is eating.
-[INFO ] 2018-04-05 11:24:04.023 [Thread-3] Philosopher - Philosopher 2 is thinking...
-[INFO ] 2018-04-05 11:24:04.023 [Thread-2] Philosopher - Philosopher 1 picked up rightFork 2
-[INFO ] 2018-04-05 11:24:04.024 [Thread-2] Philosopher - Philosopher 1 is eating.
-[INFO ] 2018-04-05 11:24:04.024 [Thread-2] Philosopher - Philosopher 1 is thinking...
-[INFO ] 2018-04-05 11:24:04.024 [Thread-1] Philosopher - Philosopher 0 picked up rightFork 1
-[INFO ] 2018-04-05 11:24:04.024 [Thread-1] Philosopher - Philosopher 0 is eating.
-[INFO ] 2018-04-05 11:24:04.024 [Thread-1] Philosopher - Philosopher 0 is thinking...
-[INFO ] 2018-04-05 11:24:04.024 [Thread-5] Philosopher - Philosopher 4 picked up leftFork 0
-[INFO ] 2018-04-05 11:24:04.024 [Thread-5] Philosopher - Philosopher 4 picked up rightFork 4
-[INFO ] 2018-04-05 11:24:04.024 [Thread-5] Philosopher - Philosopher 4 is eating.
-[INFO ] 2018-04-05 11:24:04.024 [Thread-5] Philosopher - Philosopher 4 is thinking...
-[INFO ] 2018-04-05 11:24:09.037 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:24:09.037 [Thread-5] Philosopher - Philosopher 4 picked up leftFork 0
-[INFO ] 2018-04-05 11:24:09.037 [Thread-2] Philosopher - Philosopher 1 picked up leftFork 1
-[INFO ] 2018-04-05 11:24:09.037 [Thread-3] Philosopher - Philosopher 2 picked up leftFork 2
-[INFO ] 2018-04-05 11:24:09.037 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:24:09.037 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:24:09.038 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:24:09.038 [Thread-3] Philosopher - Philosopher 2 picked up rightFork 3
-[INFO ] 2018-04-05 11:24:09.038 [Thread-5] Philosopher - Philosopher 4 picked up rightFork 4
-[INFO ] 2018-04-05 11:24:09.038 [Thread-3] Philosopher - Philosopher 2 is eating.
-[INFO ] 2018-04-05 11:24:09.038 [Thread-5] Philosopher - Philosopher 4 is eating.
-[INFO ] 2018-04-05 11:24:09.038 [Thread-3] Philosopher - Philosopher 2 is thinking...
-[INFO ] 2018-04-05 11:24:09.038 [Thread-5] Philosopher - Philosopher 4 is thinking...
-[INFO ] 2018-04-05 11:24:09.038 [Thread-2] Philosopher - Philosopher 1 picked up rightFork 2
-[INFO ] 2018-04-05 11:24:09.038 [Thread-1] Philosopher - Philosopher 0 picked up leftFork 0
-[INFO ] 2018-04-05 11:24:09.038 [Thread-2] Philosopher - Philosopher 1 is eating.
-[INFO ] 2018-04-05 11:24:09.038 [Thread-2] Philosopher - Philosopher 1 is thinking...
-[INFO ] 2018-04-05 11:24:09.038 [Thread-1] Philosopher - Philosopher 0 picked up rightFork 1
-[INFO ] 2018-04-05 11:24:09.038 [Thread-1] Philosopher - Philosopher 0 is eating.
-[INFO ] 2018-04-05 11:24:09.038 [Thread-1] Philosopher - Philosopher 0 is thinking...
-[INFO ] 2018-04-05 11:24:14.053 [Thread-1] Philosopher - Philosopher 0 picked up leftFork 0
-[INFO ] 2018-04-05 11:24:14.053 [Thread-3] Philosopher - Philosopher 2 picked up leftFork 2
-[INFO ] 2018-04-05 11:24:14.053 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:24:14.053 [Thread-2] Philosopher - Philosopher 1 picked up leftFork 1
-[INFO ] 2018-04-05 11:24:14.053 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:24:14.054 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:24:14.054 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:24:14.054 [Thread-3] Philosopher - Philosopher 2 picked up rightFork 3
-[INFO ] 2018-04-05 11:24:14.054 [Thread-3] Philosopher - Philosopher 2 is eating.
-[INFO ] 2018-04-05 11:24:14.054 [Thread-3] Philosopher - Philosopher 2 is thinking...
-[INFO ] 2018-04-05 11:24:14.054 [Thread-2] Philosopher - Philosopher 1 picked up rightFork 2
-[INFO ] 2018-04-05 11:24:14.055 [Thread-2] Philosopher - Philosopher 1 is eating.
-[INFO ] 2018-04-05 11:24:14.055 [Thread-2] Philosopher - Philosopher 1 is thinking...
-[INFO ] 2018-04-05 11:24:14.055 [Thread-1] Philosopher - Philosopher 0 picked up rightFork 1
-[INFO ] 2018-04-05 11:24:14.055 [Thread-1] Philosopher - Philosopher 0 is eating.
-[INFO ] 2018-04-05 11:24:14.055 [Thread-1] Philosopher - Philosopher 0 is thinking...
-[INFO ] 2018-04-05 11:24:14.055 [Thread-5] Philosopher - Philosopher 4 picked up leftFork 0
-[INFO ] 2018-04-05 11:24:14.056 [Thread-5] Philosopher - Philosopher 4 picked up rightFork 4
-[INFO ] 2018-04-05 11:24:14.056 [Thread-5] Philosopher - Philosopher 4 is eating.
-[INFO ] 2018-04-05 11:24:14.056 [Thread-5] Philosopher - Philosopher 4 is thinking...
-[INFO ] 2018-04-05 11:26:13.536 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:26:13.536 [Thread-2] Philosopher - Philosopher 1 picked up leftFork 1
-[INFO ] 2018-04-05 11:26:13.536 [Thread-1] Philosopher - Philosopher 0 picked up leftFork 0
-[INFO ] 2018-04-05 11:26:13.536 [Thread-3] Philosopher - Philosopher 2 picked up leftFork 2
-[INFO ] 2018-04-05 11:26:13.536 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:26:13.536 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:26:13.536 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:26:15.538 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:26:15.538 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:26:15.539 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:26:15.539 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:26:17.553 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:26:17.553 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:26:17.554 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:26:17.554 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:26:19.554 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:26:19.554 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:26:19.555 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:26:19.555 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:26:21.568 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:26:21.568 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:26:21.569 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:26:21.569 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:26:23.570 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:26:23.570 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:26:23.571 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:26:23.571 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:26:25.584 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:26:25.584 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:26:25.585 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:26:25.585 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:26:27.599 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:26:27.599 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:26:27.600 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:26:27.600 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:26:29.610 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:26:29.610 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:26:29.611 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:26:29.611 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:26:31.615 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:26:31.615 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:26:31.616 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:26:31.616 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:26:33.630 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:26:33.631 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:26:33.631 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:26:33.631 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:26:35.632 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:26:35.632 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:26:35.632 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:26:35.632 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:26:37.634 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:26:37.634 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:26:37.634 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:26:37.635 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:26:39.640 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:26:39.641 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:26:39.641 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:26:39.641 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:26:41.641 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:26:41.641 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:26:41.641 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:26:41.642 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:26:43.642 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:26:43.642 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:26:43.643 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:26:43.643 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:26:45.644 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:26:45.644 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:26:45.644 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:26:45.645 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:26:47.645 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:26:47.645 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:26:47.645 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:26:47.645 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:26:49.646 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:26:49.646 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:26:49.646 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:26:49.646 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:26:51.646 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:26:51.646 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:26:51.646 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:26:51.646 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:26:53.648 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:26:53.648 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:26:53.648 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:26:53.648 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:26:55.649 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:26:55.649 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:26:55.650 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:26:55.650 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:26:57.650 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:26:57.650 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:26:57.650 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:26:57.651 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:26:59.652 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:26:59.652 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:26:59.652 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:26:59.653 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:27:01.654 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:27:01.654 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:27:01.654 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:27:01.655 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:27:03.655 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:27:03.655 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:27:03.655 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:27:03.655 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:27:05.657 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:27:05.657 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:27:05.657 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:27:05.658 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:27:07.658 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:27:07.658 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:27:07.658 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:27:07.658 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:27:09.659 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:27:09.659 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:27:09.659 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:27:09.660 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:27:11.660 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:27:11.660 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:27:11.660 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:27:11.660 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:27:13.662 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:27:13.662 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:27:13.662 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:27:13.663 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:27:15.663 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:27:15.663 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:27:15.663 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:27:15.663 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:27:17.663 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:27:17.663 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:27:17.663 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:27:17.664 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:27:19.664 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:27:19.664 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:27:19.664 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:27:19.665 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:27:21.665 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:27:21.665 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:27:21.665 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:27:21.666 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:27:23.666 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:27:23.666 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:27:23.666 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:27:23.666 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:27:25.667 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:27:25.667 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:27:25.667 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:27:25.667 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:27:27.668 [Thread-4] Philosopher - Philosopher 3 picked up leftFork 3
-[INFO ] 2018-04-05 11:27:27.668 [Thread-4] Philosopher - Philosopher 3 picked up rightFork 4
-[INFO ] 2018-04-05 11:27:27.668 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:27:27.668 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:27:30.427 [Thread-1] Philosopher - Philosopher 0 picked up Fork 0
-[INFO ] 2018-04-05 11:27:30.427 [Thread-2] Philosopher - Philosopher 1 picked up Fork 1
-[INFO ] 2018-04-05 11:27:30.427 [Thread-4] Philosopher - Philosopher 3 picked up Fork 3
-[INFO ] 2018-04-05 11:27:30.427 [Thread-3] Philosopher - Philosopher 2 picked up Fork 2
-[INFO ] 2018-04-05 11:27:30.427 [Thread-4] Philosopher - Philosopher 3 picked up Fork 4
-[INFO ] 2018-04-05 11:27:30.427 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:27:30.427 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:27:30.427 [Thread-3] Philosopher - Philosopher 2 picked up Fork 3
-[INFO ] 2018-04-05 11:27:30.427 [Thread-3] Philosopher - Philosopher 2 is eating.
-[INFO ] 2018-04-05 11:27:30.427 [Thread-3] Philosopher - Philosopher 2 is thinking...
-[INFO ] 2018-04-05 11:27:30.427 [Thread-2] Philosopher - Philosopher 1 picked up Fork 2
-[INFO ] 2018-04-05 11:27:30.427 [Thread-2] Philosopher - Philosopher 1 is eating.
-[INFO ] 2018-04-05 11:27:30.427 [Thread-2] Philosopher - Philosopher 1 is thinking...
-[INFO ] 2018-04-05 11:27:30.427 [Thread-1] Philosopher - Philosopher 0 picked up Fork 1
-[INFO ] 2018-04-05 11:27:30.427 [Thread-1] Philosopher - Philosopher 0 is eating.
-[INFO ] 2018-04-05 11:27:30.427 [Thread-1] Philosopher - Philosopher 0 is thinking...
-[INFO ] 2018-04-05 11:27:30.442 [Thread-5] Philosopher - Philosopher 4 picked up Fork 0
-[INFO ] 2018-04-05 11:27:30.442 [Thread-5] Philosopher - Philosopher 4 picked up Fork 4
-[INFO ] 2018-04-05 11:27:30.442 [Thread-5] Philosopher - Philosopher 4 is eating.
-[INFO ] 2018-04-05 11:27:30.442 [Thread-5] Philosopher - Philosopher 4 is thinking...
-[INFO ] 2018-04-05 11:27:32.442 [Thread-3] Philosopher - Philosopher 2 picked up Fork 2
-[INFO ] 2018-04-05 11:27:32.442 [Thread-2] Philosopher - Philosopher 1 picked up Fork 1
-[INFO ] 2018-04-05 11:27:32.442 [Thread-4] Philosopher - Philosopher 3 picked up Fork 3
-[INFO ] 2018-04-05 11:27:32.442 [Thread-4] Philosopher - Philosopher 3 picked up Fork 4
-[INFO ] 2018-04-05 11:27:32.443 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:27:32.443 [Thread-5] Philosopher - Philosopher 4 picked up Fork 0
-[INFO ] 2018-04-05 11:27:32.443 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:27:32.443 [Thread-3] Philosopher - Philosopher 2 picked up Fork 3
-[INFO ] 2018-04-05 11:27:32.443 [Thread-5] Philosopher - Philosopher 4 picked up Fork 4
-[INFO ] 2018-04-05 11:27:32.443 [Thread-3] Philosopher - Philosopher 2 is eating.
-[INFO ] 2018-04-05 11:27:32.444 [Thread-5] Philosopher - Philosopher 4 is eating.
-[INFO ] 2018-04-05 11:27:32.444 [Thread-3] Philosopher - Philosopher 2 is thinking...
-[INFO ] 2018-04-05 11:27:32.444 [Thread-2] Philosopher - Philosopher 1 picked up Fork 2
-[INFO ] 2018-04-05 11:27:32.444 [Thread-1] Philosopher - Philosopher 0 picked up Fork 0
-[INFO ] 2018-04-05 11:27:32.444 [Thread-5] Philosopher - Philosopher 4 is thinking...
-[INFO ] 2018-04-05 11:27:32.444 [Thread-2] Philosopher - Philosopher 1 is eating.
-[INFO ] 2018-04-05 11:27:32.444 [Thread-2] Philosopher - Philosopher 1 is thinking...
-[INFO ] 2018-04-05 11:27:32.444 [Thread-1] Philosopher - Philosopher 0 picked up Fork 1
-[INFO ] 2018-04-05 11:27:32.444 [Thread-1] Philosopher - Philosopher 0 is eating.
-[INFO ] 2018-04-05 11:27:32.444 [Thread-1] Philosopher - Philosopher 0 is thinking...
-[INFO ] 2018-04-05 11:27:34.445 [Thread-5] Philosopher - Philosopher 4 picked up Fork 0
-[INFO ] 2018-04-05 11:27:34.445 [Thread-2] Philosopher - Philosopher 1 picked up Fork 1
-[INFO ] 2018-04-05 11:27:34.445 [Thread-3] Philosopher - Philosopher 2 picked up Fork 2
-[INFO ] 2018-04-05 11:27:34.445 [Thread-4] Philosopher - Philosopher 3 picked up Fork 3
-[INFO ] 2018-04-05 11:27:34.445 [Thread-5] Philosopher - Philosopher 4 picked up Fork 4
-[INFO ] 2018-04-05 11:27:34.446 [Thread-5] Philosopher - Philosopher 4 is eating.
-[INFO ] 2018-04-05 11:27:34.446 [Thread-5] Philosopher - Philosopher 4 is thinking...
-[INFO ] 2018-04-05 11:27:34.446 [Thread-4] Philosopher - Philosopher 3 picked up Fork 4
-[INFO ] 2018-04-05 11:27:34.446 [Thread-1] Philosopher - Philosopher 0 picked up Fork 0
-[INFO ] 2018-04-05 11:27:34.446 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:27:34.447 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:27:34.447 [Thread-3] Philosopher - Philosopher 2 picked up Fork 3
-[INFO ] 2018-04-05 11:27:34.447 [Thread-3] Philosopher - Philosopher 2 is eating.
-[INFO ] 2018-04-05 11:27:34.447 [Thread-3] Philosopher - Philosopher 2 is thinking...
-[INFO ] 2018-04-05 11:27:34.447 [Thread-2] Philosopher - Philosopher 1 picked up Fork 2
-[INFO ] 2018-04-05 11:27:34.447 [Thread-2] Philosopher - Philosopher 1 is eating.
-[INFO ] 2018-04-05 11:27:34.447 [Thread-2] Philosopher - Philosopher 1 is thinking...
-[INFO ] 2018-04-05 11:27:34.447 [Thread-1] Philosopher - Philosopher 0 picked up Fork 1
-[INFO ] 2018-04-05 11:27:34.447 [Thread-1] Philosopher - Philosopher 0 is eating.
-[INFO ] 2018-04-05 11:27:34.447 [Thread-1] Philosopher - Philosopher 0 is thinking...
-[INFO ] 2018-04-05 11:27:36.458 [Thread-1] Philosopher - Philosopher 0 picked up Fork 0
-[INFO ] 2018-04-05 11:27:36.458 [Thread-2] Philosopher - Philosopher 1 picked up Fork 1
-[INFO ] 2018-04-05 11:27:36.458 [Thread-3] Philosopher - Philosopher 2 picked up Fork 2
-[INFO ] 2018-04-05 11:27:36.458 [Thread-4] Philosopher - Philosopher 3 picked up Fork 3
-[INFO ] 2018-04-05 11:27:36.460 [Thread-4] Philosopher - Philosopher 3 picked up Fork 4
-[INFO ] 2018-04-05 11:27:36.460 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:27:36.460 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:27:36.460 [Thread-3] Philosopher - Philosopher 2 picked up Fork 3
-[INFO ] 2018-04-05 11:27:36.460 [Thread-3] Philosopher - Philosopher 2 is eating.
-[INFO ] 2018-04-05 11:27:36.460 [Thread-3] Philosopher - Philosopher 2 is thinking...
-[INFO ] 2018-04-05 11:27:36.460 [Thread-2] Philosopher - Philosopher 1 picked up Fork 2
-[INFO ] 2018-04-05 11:27:36.460 [Thread-2] Philosopher - Philosopher 1 is eating.
-[INFO ] 2018-04-05 11:27:36.460 [Thread-2] Philosopher - Philosopher 1 is thinking...
-[INFO ] 2018-04-05 11:27:36.460 [Thread-1] Philosopher - Philosopher 0 picked up Fork 1
-[INFO ] 2018-04-05 11:27:36.460 [Thread-1] Philosopher - Philosopher 0 is eating.
-[INFO ] 2018-04-05 11:27:36.460 [Thread-1] Philosopher - Philosopher 0 is thinking...
-[INFO ] 2018-04-05 11:27:36.460 [Thread-5] Philosopher - Philosopher 4 picked up Fork 0
-[INFO ] 2018-04-05 11:27:36.460 [Thread-5] Philosopher - Philosopher 4 picked up Fork 4
-[INFO ] 2018-04-05 11:27:36.460 [Thread-5] Philosopher - Philosopher 4 is eating.
-[INFO ] 2018-04-05 11:27:36.460 [Thread-5] Philosopher - Philosopher 4 is thinking...
-[INFO ] 2018-04-05 11:27:38.473 [Thread-2] Philosopher - Philosopher 1 picked up Fork 1
-[INFO ] 2018-04-05 11:27:38.473 [Thread-1] Philosopher - Philosopher 0 picked up Fork 0
-[INFO ] 2018-04-05 11:27:38.473 [Thread-4] Philosopher - Philosopher 3 picked up Fork 3
-[INFO ] 2018-04-05 11:27:38.473 [Thread-3] Philosopher - Philosopher 2 picked up Fork 2
-[INFO ] 2018-04-05 11:27:38.474 [Thread-4] Philosopher - Philosopher 3 picked up Fork 4
-[INFO ] 2018-04-05 11:27:38.474 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:27:38.474 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:27:38.474 [Thread-3] Philosopher - Philosopher 2 picked up Fork 3
-[INFO ] 2018-04-05 11:27:38.475 [Thread-3] Philosopher - Philosopher 2 is eating.
-[INFO ] 2018-04-05 11:27:38.475 [Thread-3] Philosopher - Philosopher 2 is thinking...
-[INFO ] 2018-04-05 11:27:38.475 [Thread-2] Philosopher - Philosopher 1 picked up Fork 2
-[INFO ] 2018-04-05 11:27:38.475 [Thread-2] Philosopher - Philosopher 1 is eating.
-[INFO ] 2018-04-05 11:27:38.475 [Thread-2] Philosopher - Philosopher 1 is thinking...
-[INFO ] 2018-04-05 11:27:38.475 [Thread-1] Philosopher - Philosopher 0 picked up Fork 1
-[INFO ] 2018-04-05 11:27:38.476 [Thread-1] Philosopher - Philosopher 0 is eating.
-[INFO ] 2018-04-05 11:27:38.476 [Thread-1] Philosopher - Philosopher 0 is thinking...
-[INFO ] 2018-04-05 11:27:38.476 [Thread-5] Philosopher - Philosopher 4 picked up Fork 0
-[INFO ] 2018-04-05 11:27:38.476 [Thread-5] Philosopher - Philosopher 4 picked up Fork 4
-[INFO ] 2018-04-05 11:27:38.476 [Thread-5] Philosopher - Philosopher 4 is eating.
-[INFO ] 2018-04-05 11:27:38.476 [Thread-5] Philosopher - Philosopher 4 is thinking...
-[INFO ] 2018-04-05 11:27:40.489 [Thread-2] Philosopher - Philosopher 1 picked up Fork 1
-[INFO ] 2018-04-05 11:27:40.489 [Thread-4] Philosopher - Philosopher 3 picked up Fork 3
-[INFO ] 2018-04-05 11:27:40.489 [Thread-5] Philosopher - Philosopher 4 picked up Fork 0
-[INFO ] 2018-04-05 11:27:40.489 [Thread-3] Philosopher - Philosopher 2 picked up Fork 2
-[INFO ] 2018-04-05 11:27:40.489 [Thread-5] Philosopher - Philosopher 4 picked up Fork 4
-[INFO ] 2018-04-05 11:27:40.490 [Thread-5] Philosopher - Philosopher 4 is eating.
-[INFO ] 2018-04-05 11:27:40.490 [Thread-5] Philosopher - Philosopher 4 is thinking...
-[INFO ] 2018-04-05 11:27:40.490 [Thread-4] Philosopher - Philosopher 3 picked up Fork 4
-[INFO ] 2018-04-05 11:27:40.490 [Thread-1] Philosopher - Philosopher 0 picked up Fork 0
-[INFO ] 2018-04-05 11:27:40.490 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:27:40.491 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:27:40.491 [Thread-3] Philosopher - Philosopher 2 picked up Fork 3
-[INFO ] 2018-04-05 11:27:40.491 [Thread-3] Philosopher - Philosopher 2 is eating.
-[INFO ] 2018-04-05 11:27:40.491 [Thread-3] Philosopher - Philosopher 2 is thinking...
-[INFO ] 2018-04-05 11:27:40.491 [Thread-2] Philosopher - Philosopher 1 picked up Fork 2
-[INFO ] 2018-04-05 11:27:40.492 [Thread-2] Philosopher - Philosopher 1 is eating.
-[INFO ] 2018-04-05 11:27:40.492 [Thread-2] Philosopher - Philosopher 1 is thinking...
-[INFO ] 2018-04-05 11:27:40.492 [Thread-1] Philosopher - Philosopher 0 picked up Fork 1
-[INFO ] 2018-04-05 11:27:40.492 [Thread-1] Philosopher - Philosopher 0 is eating.
-[INFO ] 2018-04-05 11:27:40.492 [Thread-1] Philosopher - Philosopher 0 is thinking...
-[INFO ] 2018-04-05 11:27:42.504 [Thread-1] Philosopher - Philosopher 0 picked up Fork 0
-[INFO ] 2018-04-05 11:27:42.504 [Thread-2] Philosopher - Philosopher 1 picked up Fork 1
-[INFO ] 2018-04-05 11:27:42.504 [Thread-4] Philosopher - Philosopher 3 picked up Fork 3
-[INFO ] 2018-04-05 11:27:42.504 [Thread-3] Philosopher - Philosopher 2 picked up Fork 2
-[INFO ] 2018-04-05 11:27:42.504 [Thread-4] Philosopher - Philosopher 3 picked up Fork 4
-[INFO ] 2018-04-05 11:27:42.505 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:27:42.505 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:27:42.505 [Thread-3] Philosopher - Philosopher 2 picked up Fork 3
-[INFO ] 2018-04-05 11:27:42.505 [Thread-3] Philosopher - Philosopher 2 is eating.
-[INFO ] 2018-04-05 11:27:42.506 [Thread-3] Philosopher - Philosopher 2 is thinking...
-[INFO ] 2018-04-05 11:27:42.506 [Thread-2] Philosopher - Philosopher 1 picked up Fork 2
-[INFO ] 2018-04-05 11:27:42.506 [Thread-2] Philosopher - Philosopher 1 is eating.
-[INFO ] 2018-04-05 11:27:42.506 [Thread-2] Philosopher - Philosopher 1 is thinking...
-[INFO ] 2018-04-05 11:27:42.506 [Thread-1] Philosopher - Philosopher 0 picked up Fork 1
-[INFO ] 2018-04-05 11:27:42.507 [Thread-1] Philosopher - Philosopher 0 is eating.
-[INFO ] 2018-04-05 11:27:42.507 [Thread-1] Philosopher - Philosopher 0 is thinking...
-[INFO ] 2018-04-05 11:27:42.507 [Thread-5] Philosopher - Philosopher 4 picked up Fork 0
-[INFO ] 2018-04-05 11:27:42.507 [Thread-5] Philosopher - Philosopher 4 picked up Fork 4
-[INFO ] 2018-04-05 11:27:42.507 [Thread-5] Philosopher - Philosopher 4 is eating.
-[INFO ] 2018-04-05 11:27:42.507 [Thread-5] Philosopher - Philosopher 4 is thinking...
-[INFO ] 2018-04-05 11:27:44.506 [Thread-4] Philosopher - Philosopher 3 picked up Fork 3
-[INFO ] 2018-04-05 11:27:44.506 [Thread-4] Philosopher - Philosopher 3 picked up Fork 4
-[INFO ] 2018-04-05 11:27:44.506 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:27:44.507 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:27:44.507 [Thread-3] Philosopher - Philosopher 2 picked up Fork 2
-[INFO ] 2018-04-05 11:27:44.507 [Thread-3] Philosopher - Philosopher 2 picked up Fork 3
-[INFO ] 2018-04-05 11:27:44.507 [Thread-3] Philosopher - Philosopher 2 is eating.
-[INFO ] 2018-04-05 11:27:44.507 [Thread-3] Philosopher - Philosopher 2 is thinking...
-[INFO ] 2018-04-05 11:27:44.508 [Thread-2] Philosopher - Philosopher 1 picked up Fork 1
-[INFO ] 2018-04-05 11:27:44.508 [Thread-5] Philosopher - Philosopher 4 picked up Fork 0
-[INFO ] 2018-04-05 11:27:44.508 [Thread-2] Philosopher - Philosopher 1 picked up Fork 2
-[INFO ] 2018-04-05 11:27:44.508 [Thread-5] Philosopher - Philosopher 4 picked up Fork 4
-[INFO ] 2018-04-05 11:27:44.508 [Thread-2] Philosopher - Philosopher 1 is eating.
-[INFO ] 2018-04-05 11:27:44.508 [Thread-5] Philosopher - Philosopher 4 is eating.
-[INFO ] 2018-04-05 11:27:44.508 [Thread-2] Philosopher - Philosopher 1 is thinking...
-[INFO ] 2018-04-05 11:27:44.508 [Thread-5] Philosopher - Philosopher 4 is thinking...
-[INFO ] 2018-04-05 11:27:44.508 [Thread-1] Philosopher - Philosopher 0 picked up Fork 0
-[INFO ] 2018-04-05 11:27:44.509 [Thread-1] Philosopher - Philosopher 0 picked up Fork 1
-[INFO ] 2018-04-05 11:27:44.509 [Thread-1] Philosopher - Philosopher 0 is eating.
-[INFO ] 2018-04-05 11:27:44.509 [Thread-1] Philosopher - Philosopher 0 is thinking...
-[INFO ] 2018-04-05 11:27:46.520 [Thread-5] Philosopher - Philosopher 4 picked up Fork 0
-[INFO ] 2018-04-05 11:27:46.520 [Thread-3] Philosopher - Philosopher 2 picked up Fork 2
-[INFO ] 2018-04-05 11:27:46.520 [Thread-2] Philosopher - Philosopher 1 picked up Fork 1
-[INFO ] 2018-04-05 11:27:46.520 [Thread-4] Philosopher - Philosopher 3 picked up Fork 3
-[INFO ] 2018-04-05 11:27:46.520 [Thread-5] Philosopher - Philosopher 4 picked up Fork 4
-[INFO ] 2018-04-05 11:27:46.521 [Thread-5] Philosopher - Philosopher 4 is eating.
-[INFO ] 2018-04-05 11:27:46.521 [Thread-5] Philosopher - Philosopher 4 is thinking...
-[INFO ] 2018-04-05 11:27:46.521 [Thread-4] Philosopher - Philosopher 3 picked up Fork 4
-[INFO ] 2018-04-05 11:27:46.521 [Thread-1] Philosopher - Philosopher 0 picked up Fork 0
-[INFO ] 2018-04-05 11:27:46.521 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:27:46.521 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:27:46.522 [Thread-3] Philosopher - Philosopher 2 picked up Fork 3
-[INFO ] 2018-04-05 11:27:46.522 [Thread-3] Philosopher - Philosopher 2 is eating.
-[INFO ] 2018-04-05 11:27:46.522 [Thread-3] Philosopher - Philosopher 2 is thinking...
-[INFO ] 2018-04-05 11:27:46.522 [Thread-2] Philosopher - Philosopher 1 picked up Fork 2
-[INFO ] 2018-04-05 11:27:46.522 [Thread-2] Philosopher - Philosopher 1 is eating.
-[INFO ] 2018-04-05 11:27:46.522 [Thread-2] Philosopher - Philosopher 1 is thinking...
-[INFO ] 2018-04-05 11:27:46.522 [Thread-1] Philosopher - Philosopher 0 picked up Fork 1
-[INFO ] 2018-04-05 11:27:46.522 [Thread-1] Philosopher - Philosopher 0 is eating.
-[INFO ] 2018-04-05 11:27:46.522 [Thread-1] Philosopher - Philosopher 0 is thinking...
-[INFO ] 2018-04-05 11:27:48.536 [Thread-3] Philosopher - Philosopher 2 picked up Fork 2
-[INFO ] 2018-04-05 11:27:48.536 [Thread-2] Philosopher - Philosopher 1 picked up Fork 1
-[INFO ] 2018-04-05 11:27:48.536 [Thread-1] Philosopher - Philosopher 0 picked up Fork 0
-[INFO ] 2018-04-05 11:27:48.536 [Thread-4] Philosopher - Philosopher 3 picked up Fork 3
-[INFO ] 2018-04-05 11:27:48.536 [Thread-4] Philosopher - Philosopher 3 picked up Fork 4
-[INFO ] 2018-04-05 11:27:48.537 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:27:48.537 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:27:48.537 [Thread-3] Philosopher - Philosopher 2 picked up Fork 3
-[INFO ] 2018-04-05 11:27:48.537 [Thread-3] Philosopher - Philosopher 2 is eating.
-[INFO ] 2018-04-05 11:27:48.537 [Thread-3] Philosopher - Philosopher 2 is thinking...
-[INFO ] 2018-04-05 11:27:48.537 [Thread-2] Philosopher - Philosopher 1 picked up Fork 2
-[INFO ] 2018-04-05 11:27:48.538 [Thread-2] Philosopher - Philosopher 1 is eating.
-[INFO ] 2018-04-05 11:27:48.538 [Thread-2] Philosopher - Philosopher 1 is thinking...
-[INFO ] 2018-04-05 11:27:48.538 [Thread-1] Philosopher - Philosopher 0 picked up Fork 1
-[INFO ] 2018-04-05 11:27:48.538 [Thread-1] Philosopher - Philosopher 0 is eating.
-[INFO ] 2018-04-05 11:27:48.539 [Thread-1] Philosopher - Philosopher 0 is thinking...
-[INFO ] 2018-04-05 11:27:48.539 [Thread-5] Philosopher - Philosopher 4 picked up Fork 0
-[INFO ] 2018-04-05 11:27:48.539 [Thread-5] Philosopher - Philosopher 4 picked up Fork 4
-[INFO ] 2018-04-05 11:27:48.539 [Thread-5] Philosopher - Philosopher 4 is eating.
-[INFO ] 2018-04-05 11:27:48.539 [Thread-5] Philosopher - Philosopher 4 is thinking...
-[INFO ] 2018-04-05 11:27:50.537 [Thread-4] Philosopher - Philosopher 3 picked up Fork 3
-[INFO ] 2018-04-05 11:27:50.537 [Thread-4] Philosopher - Philosopher 3 picked up Fork 4
-[INFO ] 2018-04-05 11:27:50.537 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:27:50.538 [Thread-3] Philosopher - Philosopher 2 picked up Fork 2
-[INFO ] 2018-04-05 11:27:50.538 [Thread-2] Philosopher - Philosopher 1 picked up Fork 1
-[INFO ] 2018-04-05 11:27:50.538 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:27:50.538 [Thread-3] Philosopher - Philosopher 2 picked up Fork 3
-[INFO ] 2018-04-05 11:27:50.538 [Thread-3] Philosopher - Philosopher 2 is eating.
-[INFO ] 2018-04-05 11:27:50.539 [Thread-3] Philosopher - Philosopher 2 is thinking...
-[INFO ] 2018-04-05 11:27:50.539 [Thread-2] Philosopher - Philosopher 1 picked up Fork 2
-[INFO ] 2018-04-05 11:27:50.539 [Thread-2] Philosopher - Philosopher 1 is eating.
-[INFO ] 2018-04-05 11:27:50.539 [Thread-2] Philosopher - Philosopher 1 is thinking...
-[INFO ] 2018-04-05 11:27:50.555 [Thread-5] Philosopher - Philosopher 4 picked up Fork 0
-[INFO ] 2018-04-05 11:27:50.555 [Thread-5] Philosopher - Philosopher 4 picked up Fork 4
-[INFO ] 2018-04-05 11:27:50.555 [Thread-5] Philosopher - Philosopher 4 is eating.
-[INFO ] 2018-04-05 11:27:50.555 [Thread-5] Philosopher - Philosopher 4 is thinking...
-[INFO ] 2018-04-05 11:27:50.555 [Thread-1] Philosopher - Philosopher 0 picked up Fork 0
-[INFO ] 2018-04-05 11:27:50.555 [Thread-1] Philosopher - Philosopher 0 picked up Fork 1
-[INFO ] 2018-04-05 11:27:50.555 [Thread-1] Philosopher - Philosopher 0 is eating.
-[INFO ] 2018-04-05 11:27:50.555 [Thread-1] Philosopher - Philosopher 0 is thinking...
-[INFO ] 2018-04-05 11:27:52.552 [Thread-4] Philosopher - Philosopher 3 picked up Fork 3
-[INFO ] 2018-04-05 11:27:52.552 [Thread-2] Philosopher - Philosopher 1 picked up Fork 1
-[INFO ] 2018-04-05 11:27:52.552 [Thread-3] Philosopher - Philosopher 2 picked up Fork 2
-[INFO ] 2018-04-05 11:27:52.552 [Thread-4] Philosopher - Philosopher 3 picked up Fork 4
-[INFO ] 2018-04-05 11:27:52.552 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:27:52.552 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:27:52.552 [Thread-3] Philosopher - Philosopher 2 picked up Fork 3
-[INFO ] 2018-04-05 11:27:52.552 [Thread-3] Philosopher - Philosopher 2 is eating.
-[INFO ] 2018-04-05 11:27:52.552 [Thread-3] Philosopher - Philosopher 2 is thinking...
-[INFO ] 2018-04-05 11:27:52.552 [Thread-2] Philosopher - Philosopher 1 picked up Fork 2
-[INFO ] 2018-04-05 11:27:52.552 [Thread-2] Philosopher - Philosopher 1 is eating.
-[INFO ] 2018-04-05 11:27:52.552 [Thread-2] Philosopher - Philosopher 1 is thinking...
-[INFO ] 2018-04-05 11:27:52.569 [Thread-1] Philosopher - Philosopher 0 picked up Fork 0
-[INFO ] 2018-04-05 11:27:52.569 [Thread-1] Philosopher - Philosopher 0 picked up Fork 1
-[INFO ] 2018-04-05 11:27:52.569 [Thread-1] Philosopher - Philosopher 0 is eating.
-[INFO ] 2018-04-05 11:27:52.569 [Thread-1] Philosopher - Philosopher 0 is thinking...
-[INFO ] 2018-04-05 11:27:52.569 [Thread-5] Philosopher - Philosopher 4 picked up Fork 0
-[INFO ] 2018-04-05 11:27:52.569 [Thread-5] Philosopher - Philosopher 4 picked up Fork 4
-[INFO ] 2018-04-05 11:27:52.569 [Thread-5] Philosopher - Philosopher 4 is eating.
-[INFO ] 2018-04-05 11:27:52.569 [Thread-5] Philosopher - Philosopher 4 is thinking...
-[INFO ] 2018-04-05 11:27:54.567 [Thread-4] Philosopher - Philosopher 3 picked up Fork 3
-[INFO ] 2018-04-05 11:27:54.567 [Thread-3] Philosopher - Philosopher 2 picked up Fork 2
-[INFO ] 2018-04-05 11:27:54.567 [Thread-2] Philosopher - Philosopher 1 picked up Fork 1
-[INFO ] 2018-04-05 11:27:54.567 [Thread-4] Philosopher - Philosopher 3 picked up Fork 4
-[INFO ] 2018-04-05 11:27:54.567 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:27:54.568 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:27:54.568 [Thread-3] Philosopher - Philosopher 2 picked up Fork 3
-[INFO ] 2018-04-05 11:27:54.568 [Thread-3] Philosopher - Philosopher 2 is eating.
-[INFO ] 2018-04-05 11:27:54.568 [Thread-3] Philosopher - Philosopher 2 is thinking...
-[INFO ] 2018-04-05 11:27:54.568 [Thread-2] Philosopher - Philosopher 1 picked up Fork 2
-[INFO ] 2018-04-05 11:27:54.569 [Thread-2] Philosopher - Philosopher 1 is eating.
-[INFO ] 2018-04-05 11:27:54.569 [Thread-1] Philosopher - Philosopher 0 picked up Fork 0
-[INFO ] 2018-04-05 11:27:54.569 [Thread-2] Philosopher - Philosopher 1 is thinking...
-[INFO ] 2018-04-05 11:27:54.569 [Thread-1] Philosopher - Philosopher 0 picked up Fork 1
-[INFO ] 2018-04-05 11:27:54.569 [Thread-1] Philosopher - Philosopher 0 is eating.
-[INFO ] 2018-04-05 11:27:54.569 [Thread-1] Philosopher - Philosopher 0 is thinking...
-[INFO ] 2018-04-05 11:27:54.569 [Thread-5] Philosopher - Philosopher 4 picked up Fork 0
-[INFO ] 2018-04-05 11:27:54.569 [Thread-5] Philosopher - Philosopher 4 picked up Fork 4
-[INFO ] 2018-04-05 11:27:54.569 [Thread-5] Philosopher - Philosopher 4 is eating.
-[INFO ] 2018-04-05 11:27:54.569 [Thread-5] Philosopher - Philosopher 4 is thinking...
-[INFO ] 2018-04-05 11:27:56.583 [Thread-3] Philosopher - Philosopher 2 picked up Fork 2
-[INFO ] 2018-04-05 11:27:56.583 [Thread-2] Philosopher - Philosopher 1 picked up Fork 1
-[INFO ] 2018-04-05 11:27:56.583 [Thread-4] Philosopher - Philosopher 3 picked up Fork 3
-[INFO ] 2018-04-05 11:27:56.583 [Thread-5] Philosopher - Philosopher 4 picked up Fork 0
-[INFO ] 2018-04-05 11:27:56.585 [Thread-5] Philosopher - Philosopher 4 picked up Fork 4
-[INFO ] 2018-04-05 11:27:56.585 [Thread-5] Philosopher - Philosopher 4 is eating.
-[INFO ] 2018-04-05 11:27:56.585 [Thread-5] Philosopher - Philosopher 4 is thinking...
-[INFO ] 2018-04-05 11:27:56.585 [Thread-1] Philosopher - Philosopher 0 picked up Fork 0
-[INFO ] 2018-04-05 11:27:56.585 [Thread-4] Philosopher - Philosopher 3 picked up Fork 4
-[INFO ] 2018-04-05 11:27:56.586 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:27:56.586 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:27:56.586 [Thread-3] Philosopher - Philosopher 2 picked up Fork 3
-[INFO ] 2018-04-05 11:27:56.586 [Thread-3] Philosopher - Philosopher 2 is eating.
-[INFO ] 2018-04-05 11:27:56.586 [Thread-3] Philosopher - Philosopher 2 is thinking...
-[INFO ] 2018-04-05 11:27:56.586 [Thread-2] Philosopher - Philosopher 1 picked up Fork 2
-[INFO ] 2018-04-05 11:27:56.586 [Thread-2] Philosopher - Philosopher 1 is eating.
-[INFO ] 2018-04-05 11:27:56.586 [Thread-2] Philosopher - Philosopher 1 is thinking...
-[INFO ] 2018-04-05 11:27:56.586 [Thread-1] Philosopher - Philosopher 0 picked up Fork 1
-[INFO ] 2018-04-05 11:27:56.586 [Thread-1] Philosopher - Philosopher 0 is eating.
-[INFO ] 2018-04-05 11:27:56.586 [Thread-1] Philosopher - Philosopher 0 is thinking...
-[INFO ] 2018-04-05 11:29:07.082 [Thread-1] Philosopher - Philosopher 0 picked up Fork 0
-[INFO ] 2018-04-05 11:29:07.082 [Thread-3] Philosopher - Philosopher 2 picked up Fork 2
-[INFO ] 2018-04-05 11:29:07.082 [Thread-2] Philosopher - Philosopher 1 picked up Fork 1
-[INFO ] 2018-04-05 11:29:07.082 [Thread-4] Philosopher - Philosopher 3 picked up Fork 3
-[INFO ] 2018-04-05 11:29:07.082 [Thread-4] Philosopher - Philosopher 3 picked up Fork 4
-[INFO ] 2018-04-05 11:29:07.082 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:29:07.082 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:29:07.082 [Thread-3] Philosopher - Philosopher 2 picked up Fork 3
-[INFO ] 2018-04-05 11:29:07.082 [Thread-3] Philosopher - Philosopher 2 is eating.
-[INFO ] 2018-04-05 11:29:07.082 [Thread-3] Philosopher - Philosopher 2 is thinking...
-[INFO ] 2018-04-05 11:29:07.082 [Thread-2] Philosopher - Philosopher 1 picked up Fork 2
-[INFO ] 2018-04-05 11:29:07.082 [Thread-2] Philosopher - Philosopher 1 is eating.
-[INFO ] 2018-04-05 11:29:07.082 [Thread-2] Philosopher - Philosopher 1 is thinking...
-[INFO ] 2018-04-05 11:29:07.082 [Thread-1] Philosopher - Philosopher 0 picked up Fork 1
-[INFO ] 2018-04-05 11:29:07.082 [Thread-1] Philosopher - Philosopher 0 is eating.
-[INFO ] 2018-04-05 11:29:07.082 [Thread-1] Philosopher - Philosopher 0 is thinking...
-[INFO ] 2018-04-05 11:29:07.082 [Thread-5] Philosopher - Philosopher 4 picked up Fork 0
-[INFO ] 2018-04-05 11:29:07.082 [Thread-5] Philosopher - Philosopher 4 picked up Fork 4
-[INFO ] 2018-04-05 11:29:07.082 [Thread-5] Philosopher - Philosopher 4 is eating.
-[INFO ] 2018-04-05 11:29:07.082 [Thread-5] Philosopher - Philosopher 4 is thinking...
-[INFO ] 2018-04-05 11:29:09.082 [Thread-3] Philosopher - Philosopher 2 picked up Fork 2
-[INFO ] 2018-04-05 11:29:09.082 [Thread-1] Philosopher - Philosopher 0 picked up Fork 0
-[INFO ] 2018-04-05 11:29:09.082 [Thread-2] Philosopher - Philosopher 1 picked up Fork 1
-[INFO ] 2018-04-05 11:29:09.082 [Thread-4] Philosopher - Philosopher 3 picked up Fork 3
-[INFO ] 2018-04-05 11:29:09.083 [Thread-4] Philosopher - Philosopher 3 picked up Fork 4
-[INFO ] 2018-04-05 11:29:09.083 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:29:09.083 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:29:09.083 [Thread-3] Philosopher - Philosopher 2 picked up Fork 3
-[INFO ] 2018-04-05 11:29:09.084 [Thread-3] Philosopher - Philosopher 2 is eating.
-[INFO ] 2018-04-05 11:29:09.084 [Thread-3] Philosopher - Philosopher 2 is thinking...
-[INFO ] 2018-04-05 11:29:09.084 [Thread-2] Philosopher - Philosopher 1 picked up Fork 2
-[INFO ] 2018-04-05 11:29:09.085 [Thread-2] Philosopher - Philosopher 1 is eating.
-[INFO ] 2018-04-05 11:29:09.085 [Thread-2] Philosopher - Philosopher 1 is thinking...
-[INFO ] 2018-04-05 11:29:09.085 [Thread-1] Philosopher - Philosopher 0 picked up Fork 1
-[INFO ] 2018-04-05 11:29:09.085 [Thread-1] Philosopher - Philosopher 0 is eating.
-[INFO ] 2018-04-05 11:29:09.085 [Thread-1] Philosopher - Philosopher 0 is thinking...
-[INFO ] 2018-04-05 11:29:09.085 [Thread-5] Philosopher - Philosopher 4 picked up Fork 0
-[INFO ] 2018-04-05 11:29:09.085 [Thread-5] Philosopher - Philosopher 4 picked up Fork 4
-[INFO ] 2018-04-05 11:29:09.085 [Thread-5] Philosopher - Philosopher 4 is eating.
-[INFO ] 2018-04-05 11:29:09.085 [Thread-5] Philosopher - Philosopher 4 is thinking...
-[INFO ] 2018-04-05 11:29:14.552 [Thread-3] Philosopher - Philosopher 2 picked up Fork 2
-[INFO ] 2018-04-05 11:29:14.552 [Thread-2] Philosopher - Philosopher 1 picked up Fork 1
-[INFO ] 2018-04-05 11:29:14.552 [Thread-1] Philosopher - Philosopher 0 picked up Fork 0
-[INFO ] 2018-04-05 11:29:14.552 [Thread-4] Philosopher - Philosopher 3 picked up Fork 3
-[INFO ] 2018-04-05 11:29:14.567 [Thread-4] Philosopher - Philosopher 3 picked up Fork 4
-[INFO ] 2018-04-05 11:29:14.567 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:29:14.567 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:29:14.567 [Thread-3] Philosopher - Philosopher 2 picked up Fork 3
-[INFO ] 2018-04-05 11:29:14.567 [Thread-3] Philosopher - Philosopher 2 is eating.
-[INFO ] 2018-04-05 11:29:14.567 [Thread-3] Philosopher - Philosopher 2 is thinking...
-[INFO ] 2018-04-05 11:29:14.567 [Thread-2] Philosopher - Philosopher 1 picked up Fork 2
-[INFO ] 2018-04-05 11:29:14.567 [Thread-2] Philosopher - Philosopher 1 is eating.
-[INFO ] 2018-04-05 11:29:14.567 [Thread-2] Philosopher - Philosopher 1 is thinking...
-[INFO ] 2018-04-05 11:29:14.567 [Thread-1] Philosopher - Philosopher 0 picked up Fork 1
-[INFO ] 2018-04-05 11:29:14.567 [Thread-1] Philosopher - Philosopher 0 is eating.
-[INFO ] 2018-04-05 11:29:14.567 [Thread-1] Philosopher - Philosopher 0 is thinking...
-[INFO ] 2018-04-05 11:29:14.567 [Thread-5] Philosopher - Philosopher 4 picked up Fork 0
-[INFO ] 2018-04-05 11:29:14.567 [Thread-5] Philosopher - Philosopher 4 picked up Fork 4
-[INFO ] 2018-04-05 11:29:14.567 [Thread-5] Philosopher - Philosopher 4 is eating.
-[INFO ] 2018-04-05 11:29:14.567 [Thread-5] Philosopher - Philosopher 4 is thinking...
-[INFO ] 2018-04-05 11:29:16.582 [Thread-2] Philosopher - Philosopher 1 picked up Fork 1
-[INFO ] 2018-04-05 11:29:16.582 [Thread-1] Philosopher - Philosopher 0 picked up Fork 0
-[INFO ] 2018-04-05 11:29:16.582 [Thread-3] Philosopher - Philosopher 2 picked up Fork 2
-[INFO ] 2018-04-05 11:29:16.582 [Thread-4] Philosopher - Philosopher 3 picked up Fork 3
-[INFO ] 2018-04-05 11:29:16.582 [Thread-4] Philosopher - Philosopher 3 picked up Fork 4
-[INFO ] 2018-04-05 11:29:16.583 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:29:16.583 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:29:16.583 [Thread-3] Philosopher - Philosopher 2 picked up Fork 3
-[INFO ] 2018-04-05 11:29:16.584 [Thread-3] Philosopher - Philosopher 2 is eating.
-[INFO ] 2018-04-05 11:29:16.584 [Thread-3] Philosopher - Philosopher 2 is thinking...
-[INFO ] 2018-04-05 11:29:16.584 [Thread-2] Philosopher - Philosopher 1 picked up Fork 2
-[INFO ] 2018-04-05 11:29:16.584 [Thread-2] Philosopher - Philosopher 1 is eating.
-[INFO ] 2018-04-05 11:29:16.584 [Thread-2] Philosopher - Philosopher 1 is thinking...
-[INFO ] 2018-04-05 11:29:16.584 [Thread-1] Philosopher - Philosopher 0 picked up Fork 1
-[INFO ] 2018-04-05 11:29:16.584 [Thread-1] Philosopher - Philosopher 0 is eating.
-[INFO ] 2018-04-05 11:29:16.584 [Thread-1] Philosopher - Philosopher 0 is thinking...
-[INFO ] 2018-04-05 11:29:16.584 [Thread-5] Philosopher - Philosopher 4 picked up Fork 0
-[INFO ] 2018-04-05 11:29:16.584 [Thread-5] Philosopher - Philosopher 4 picked up Fork 4
-[INFO ] 2018-04-05 11:29:16.584 [Thread-5] Philosopher - Philosopher 4 is eating.
-[INFO ] 2018-04-05 11:29:16.584 [Thread-5] Philosopher - Philosopher 4 is thinking...
-[INFO ] 2018-04-05 11:29:18.597 [Thread-2] Philosopher - Philosopher 1 picked up Fork 1
-[INFO ] 2018-04-05 11:29:18.597 [Thread-4] Philosopher - Philosopher 3 picked up Fork 3
-[INFO ] 2018-04-05 11:29:18.597 [Thread-5] Philosopher - Philosopher 4 picked up Fork 0
-[INFO ] 2018-04-05 11:29:18.597 [Thread-4] Philosopher - Philosopher 3 picked up Fork 4
-[INFO ] 2018-04-05 11:29:18.597 [Thread-3] Philosopher - Philosopher 2 picked up Fork 2
-[INFO ] 2018-04-05 11:29:18.598 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:29:18.598 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:29:18.598 [Thread-3] Philosopher - Philosopher 2 picked up Fork 3
-[INFO ] 2018-04-05 11:29:18.598 [Thread-5] Philosopher - Philosopher 4 picked up Fork 4
-[INFO ] 2018-04-05 11:29:18.598 [Thread-3] Philosopher - Philosopher 2 is eating.
-[INFO ] 2018-04-05 11:29:18.598 [Thread-5] Philosopher - Philosopher 4 is eating.
-[INFO ] 2018-04-05 11:29:18.599 [Thread-3] Philosopher - Philosopher 2 is thinking...
-[INFO ] 2018-04-05 11:29:18.599 [Thread-2] Philosopher - Philosopher 1 picked up Fork 2
-[INFO ] 2018-04-05 11:29:18.599 [Thread-5] Philosopher - Philosopher 4 is thinking...
-[INFO ] 2018-04-05 11:29:18.599 [Thread-1] Philosopher - Philosopher 0 picked up Fork 0
-[INFO ] 2018-04-05 11:29:18.599 [Thread-2] Philosopher - Philosopher 1 is eating.
-[INFO ] 2018-04-05 11:29:18.599 [Thread-1] Philosopher - Philosopher 0 picked up Fork 1
-[INFO ] 2018-04-05 11:29:18.599 [Thread-2] Philosopher - Philosopher 1 is thinking...
-[INFO ] 2018-04-05 11:29:18.600 [Thread-1] Philosopher - Philosopher 0 is eating.
-[INFO ] 2018-04-05 11:29:18.600 [Thread-1] Philosopher - Philosopher 0 is thinking...
-[INFO ] 2018-04-05 11:29:20.599 [Thread-4] Philosopher - Philosopher 3 picked up Fork 3
-[INFO ] 2018-04-05 11:29:20.599 [Thread-4] Philosopher - Philosopher 3 picked up Fork 4
-[INFO ] 2018-04-05 11:29:20.600 [Thread-3] Philosopher - Philosopher 2 picked up Fork 2
-[INFO ] 2018-04-05 11:29:20.600 [Thread-5] Philosopher - Philosopher 4 picked up Fork 0
-[INFO ] 2018-04-05 11:29:20.601 [Thread-2] Philosopher - Philosopher 1 picked up Fork 1
-[INFO ] 2018-04-05 11:29:20.601 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:29:20.601 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:29:20.601 [Thread-3] Philosopher - Philosopher 2 picked up Fork 3
-[INFO ] 2018-04-05 11:29:20.601 [Thread-5] Philosopher - Philosopher 4 picked up Fork 4
-[INFO ] 2018-04-05 11:29:20.601 [Thread-5] Philosopher - Philosopher 4 is eating.
-[INFO ] 2018-04-05 11:29:20.601 [Thread-3] Philosopher - Philosopher 2 is eating.
-[INFO ] 2018-04-05 11:29:20.601 [Thread-1] Philosopher - Philosopher 0 picked up Fork 0
-[INFO ] 2018-04-05 11:29:20.601 [Thread-3] Philosopher - Philosopher 2 is thinking...
-[INFO ] 2018-04-05 11:29:20.601 [Thread-2] Philosopher - Philosopher 1 picked up Fork 2
-[INFO ] 2018-04-05 11:29:20.601 [Thread-5] Philosopher - Philosopher 4 is thinking...
-[INFO ] 2018-04-05 11:29:20.601 [Thread-2] Philosopher - Philosopher 1 is eating.
-[INFO ] 2018-04-05 11:29:20.601 [Thread-2] Philosopher - Philosopher 1 is thinking...
-[INFO ] 2018-04-05 11:29:20.601 [Thread-1] Philosopher - Philosopher 0 picked up Fork 1
-[INFO ] 2018-04-05 11:29:20.601 [Thread-1] Philosopher - Philosopher 0 is eating.
-[INFO ] 2018-04-05 11:29:20.601 [Thread-1] Philosopher - Philosopher 0 is thinking...
-[INFO ] 2018-04-05 11:29:22.613 [Thread-4] Philosopher - Philosopher 3 picked up Fork 3
-[INFO ] 2018-04-05 11:29:22.613 [Thread-3] Philosopher - Philosopher 2 picked up Fork 2
-[INFO ] 2018-04-05 11:29:22.613 [Thread-1] Philosopher - Philosopher 0 picked up Fork 0
-[INFO ] 2018-04-05 11:29:22.613 [Thread-2] Philosopher - Philosopher 1 picked up Fork 1
-[INFO ] 2018-04-05 11:29:22.614 [Thread-4] Philosopher - Philosopher 3 picked up Fork 4
-[INFO ] 2018-04-05 11:29:22.614 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:29:22.614 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:29:22.614 [Thread-3] Philosopher - Philosopher 2 picked up Fork 3
-[INFO ] 2018-04-05 11:29:22.615 [Thread-3] Philosopher - Philosopher 2 is eating.
-[INFO ] 2018-04-05 11:29:22.615 [Thread-3] Philosopher - Philosopher 2 is thinking...
-[INFO ] 2018-04-05 11:29:22.615 [Thread-2] Philosopher - Philosopher 1 picked up Fork 2
-[INFO ] 2018-04-05 11:29:22.615 [Thread-2] Philosopher - Philosopher 1 is eating.
-[INFO ] 2018-04-05 11:29:22.615 [Thread-2] Philosopher - Philosopher 1 is thinking...
-[INFO ] 2018-04-05 11:29:22.615 [Thread-1] Philosopher - Philosopher 0 picked up Fork 1
-[INFO ] 2018-04-05 11:29:22.615 [Thread-1] Philosopher - Philosopher 0 is eating.
-[INFO ] 2018-04-05 11:29:22.615 [Thread-1] Philosopher - Philosopher 0 is thinking...
-[INFO ] 2018-04-05 11:29:22.615 [Thread-5] Philosopher - Philosopher 4 picked up Fork 0
-[INFO ] 2018-04-05 11:29:22.615 [Thread-5] Philosopher - Philosopher 4 picked up Fork 4
-[INFO ] 2018-04-05 11:29:22.615 [Thread-5] Philosopher - Philosopher 4 is eating.
-[INFO ] 2018-04-05 11:29:22.615 [Thread-5] Philosopher - Philosopher 4 is thinking...
-[INFO ] 2018-04-05 11:29:24.629 [Thread-3] Philosopher - Philosopher 2 picked up Fork 2
-[INFO ] 2018-04-05 11:29:24.629 [Thread-2] Philosopher - Philosopher 1 picked up Fork 1
-[INFO ] 2018-04-05 11:29:24.629 [Thread-4] Philosopher - Philosopher 3 picked up Fork 3
-[INFO ] 2018-04-05 11:29:24.629 [Thread-5] Philosopher - Philosopher 4 picked up Fork 0
-[INFO ] 2018-04-05 11:29:24.630 [Thread-4] Philosopher - Philosopher 3 picked up Fork 4
-[INFO ] 2018-04-05 11:29:24.630 [Thread-4] Philosopher - Philosopher 3 is eating.
-[INFO ] 2018-04-05 11:29:24.630 [Thread-4] Philosopher - Philosopher 3 is thinking...
-[INFO ] 2018-04-05 11:29:24.630 [Thread-3] Philosopher - Philosopher 2 picked up Fork 3
-[INFO ] 2018-04-05 11:29:24.630 [Thread-5] Philosopher - Philosopher 4 picked up Fork 4
-[INFO ] 2018-04-05 11:29:24.631 [Thread-3] Philosopher - Philosopher 2 is eating.
-[INFO ] 2018-04-05 11:29:24.631 [Thread-5] Philosopher - Philosopher 4 is eating.
-[INFO ] 2018-04-05 11:29:24.631 [Thread-3] Philosopher - Philosopher 2 is thinking...
-[INFO ] 2018-04-05 11:29:24.631 [Thread-2] Philosopher - Philosopher 1 picked up Fork 2
-[INFO ] 2018-04-05 11:29:24.631 [Thread-5] Philosopher - Philosopher 4 is thinking...
-[INFO ] 2018-04-05 11:29:24.631 [Thread-1] Philosopher - Philosopher 0 picked up Fork 0
-[INFO ] 2018-04-05 11:29:24.631 [Thread-2] Philosopher - Philosopher 1 is eating.
-[INFO ] 2018-04-05 11:29:24.631 [Thread-2] Philosopher - Philosopher 1 is thinking...
-[INFO ] 2018-04-05 11:29:24.632 [Thread-1] Philosopher - Philosopher 0 picked up Fork 1
-[INFO ] 2018-04-05 11:29:24.632 [Thread-1] Philosopher - Philosopher 0 is eating.
-[INFO ] 2018-04-05 11:29:24.632 [Thread-1] Philosopher - Philosopher 0 is thinking...
+2018-04-05 12:23:52.007 [Thread-1] [DEBUG] Philosopher 0 picked up Fork 0
+2018-04-05 12:23:52.007 [Thread-2] [DEBUG] Philosopher 1 picked up Fork 1
+2018-04-05 12:23:52.007 [Thread-3] [DEBUG] Philosopher 2 picked up Fork 2
+2018-04-05 12:23:52.007 [Thread-4] [DEBUG] Philosopher 3 picked up Fork 3
+2018-04-05 12:23:52.007 [Thread-4] [DEBUG] Philosopher 3 picked up Fork 4
+2018-04-05 12:23:52.007 [Thread-4] [INFO ] Philosopher 3 is eating.
+2018-04-05 12:23:52.007 [Thread-4] [DEBUG] Philosopher 3 has dropped fork 4
+2018-04-05 12:23:52.007 [Thread-4] [DEBUG] Philosopher 3 has dropped fork 3
+2018-04-05 12:23:52.007 [Thread-4] [TRACE] Philosopher 3 is waiting...
+2018-04-05 12:23:52.007 [Thread-3] [DEBUG] Philosopher 2 picked up Fork 3
+2018-04-05 12:23:52.007 [Thread-3] [INFO ] Philosopher 2 is eating.
+2018-04-05 12:23:52.007 [Thread-3] [DEBUG] Philosopher 2 has dropped fork 3
+2018-04-05 12:23:52.007 [Thread-3] [DEBUG] Philosopher 2 has dropped fork 2
+2018-04-05 12:23:52.007 [Thread-3] [TRACE] Philosopher 2 is waiting...
+2018-04-05 12:23:52.007 [Thread-2] [DEBUG] Philosopher 1 picked up Fork 2
+2018-04-05 12:23:52.007 [Thread-2] [INFO ] Philosopher 1 is eating.
+2018-04-05 12:23:52.007 [Thread-2] [DEBUG] Philosopher 1 has dropped fork 2
+2018-04-05 12:23:52.007 [Thread-2] [DEBUG] Philosopher 1 has dropped fork 1
+2018-04-05 12:23:52.007 [Thread-2] [TRACE] Philosopher 1 is waiting...
+2018-04-05 12:23:52.007 [Thread-1] [DEBUG] Philosopher 0 picked up Fork 1
+2018-04-05 12:23:52.007 [Thread-1] [INFO ] Philosopher 0 is eating.
+2018-04-05 12:23:52.007 [Thread-1] [DEBUG] Philosopher 0 has dropped fork 1
+2018-04-05 12:23:52.007 [Thread-1] [DEBUG] Philosopher 0 has dropped fork 0
+2018-04-05 12:23:52.007 [Thread-1] [TRACE] Philosopher 0 is waiting...
+2018-04-05 12:23:52.007 [Thread-5] [DEBUG] Philosopher 4 picked up Fork 0
+2018-04-05 12:23:52.007 [Thread-5] [DEBUG] Philosopher 4 picked up Fork 4
+2018-04-05 12:23:52.007 [Thread-5] [INFO ] Philosopher 4 is eating.
+2018-04-05 12:23:52.007 [Thread-5] [DEBUG] Philosopher 4 has dropped fork 4
+2018-04-05 12:23:52.007 [Thread-5] [DEBUG] Philosopher 4 has dropped fork 0
+2018-04-05 12:23:52.007 [Thread-5] [TRACE] Philosopher 4 is waiting...
+2018-04-05 12:23:54.019 [Thread-1] [DEBUG] Philosopher 0 picked up Fork 0
+2018-04-05 12:23:54.019 [Thread-4] [DEBUG] Philosopher 3 picked up Fork 3
+2018-04-05 12:23:54.019 [Thread-2] [DEBUG] Philosopher 1 picked up Fork 1
+2018-04-05 12:23:54.019 [Thread-3] [DEBUG] Philosopher 2 picked up Fork 2
+2018-04-05 12:23:54.019 [Thread-4] [DEBUG] Philosopher 3 picked up Fork 4
+2018-04-05 12:23:54.020 [Thread-4] [INFO ] Philosopher 3 is eating.
+2018-04-05 12:23:54.020 [Thread-4] [DEBUG] Philosopher 3 has dropped fork 4
+2018-04-05 12:23:54.020 [Thread-4] [DEBUG] Philosopher 3 has dropped fork 3
+2018-04-05 12:23:54.021 [Thread-4] [TRACE] Philosopher 3 is waiting...
+2018-04-05 12:23:54.021 [Thread-3] [DEBUG] Philosopher 2 picked up Fork 3
+2018-04-05 12:23:54.021 [Thread-3] [INFO ] Philosopher 2 is eating.
+2018-04-05 12:23:54.021 [Thread-3] [DEBUG] Philosopher 2 has dropped fork 3
+2018-04-05 12:23:54.021 [Thread-3] [DEBUG] Philosopher 2 has dropped fork 2
+2018-04-05 12:23:54.021 [Thread-3] [TRACE] Philosopher 2 is waiting...
+2018-04-05 12:23:54.021 [Thread-2] [DEBUG] Philosopher 1 picked up Fork 2
+2018-04-05 12:23:54.021 [Thread-2] [INFO ] Philosopher 1 is eating.
+2018-04-05 12:23:54.021 [Thread-2] [DEBUG] Philosopher 1 has dropped fork 2
+2018-04-05 12:23:54.021 [Thread-2] [DEBUG] Philosopher 1 has dropped fork 1
+2018-04-05 12:23:54.021 [Thread-2] [TRACE] Philosopher 1 is waiting...
+2018-04-05 12:23:54.021 [Thread-1] [DEBUG] Philosopher 0 picked up Fork 1
+2018-04-05 12:23:54.021 [Thread-1] [INFO ] Philosopher 0 is eating.
+2018-04-05 12:23:54.021 [Thread-1] [DEBUG] Philosopher 0 has dropped fork 1
+2018-04-05 12:23:54.021 [Thread-1] [DEBUG] Philosopher 0 has dropped fork 0
+2018-04-05 12:23:54.021 [Thread-1] [TRACE] Philosopher 0 is waiting...
+2018-04-05 12:23:54.021 [Thread-5] [DEBUG] Philosopher 4 picked up Fork 0
+2018-04-05 12:23:54.021 [Thread-5] [DEBUG] Philosopher 4 picked up Fork 4
+2018-04-05 12:23:54.021 [Thread-5] [INFO ] Philosopher 4 is eating.
+2018-04-05 12:23:54.021 [Thread-5] [DEBUG] Philosopher 4 has dropped fork 4
+2018-04-05 12:23:54.021 [Thread-5] [DEBUG] Philosopher 4 has dropped fork 0
+2018-04-05 12:23:54.021 [Thread-5] [TRACE] Philosopher 4 is waiting...
+2018-04-05 12:23:56.024 [Thread-4] [DEBUG] Philosopher 3 picked up Fork 3
+2018-04-05 12:23:56.024 [Thread-3] [DEBUG] Philosopher 2 picked up Fork 2
+2018-04-05 12:23:56.024 [Thread-1] [DEBUG] Philosopher 0 picked up Fork 0
+2018-04-05 12:23:56.024 [Thread-2] [DEBUG] Philosopher 1 picked up Fork 1
+2018-04-05 12:23:56.024 [Thread-4] [DEBUG] Philosopher 3 picked up Fork 4
+2018-04-05 12:23:56.025 [Thread-4] [INFO ] Philosopher 3 is eating.
+2018-04-05 12:23:56.025 [Thread-4] [DEBUG] Philosopher 3 has dropped fork 4
+2018-04-05 12:23:56.026 [Thread-4] [DEBUG] Philosopher 3 has dropped fork 3
+2018-04-05 12:23:56.026 [Thread-4] [TRACE] Philosopher 3 is waiting...
+2018-04-05 12:23:56.026 [Thread-3] [DEBUG] Philosopher 2 picked up Fork 3
+2018-04-05 12:23:56.026 [Thread-3] [INFO ] Philosopher 2 is eating.
+2018-04-05 12:23:56.026 [Thread-3] [DEBUG] Philosopher 2 has dropped fork 3
+2018-04-05 12:23:56.027 [Thread-3] [DEBUG] Philosopher 2 has dropped fork 2
+2018-04-05 12:23:56.027 [Thread-3] [TRACE] Philosopher 2 is waiting...
+2018-04-05 12:23:56.027 [Thread-2] [DEBUG] Philosopher 1 picked up Fork 2
+2018-04-05 12:23:56.027 [Thread-2] [INFO ] Philosopher 1 is eating.
+2018-04-05 12:23:56.027 [Thread-2] [DEBUG] Philosopher 1 has dropped fork 2
+2018-04-05 12:23:56.027 [Thread-2] [DEBUG] Philosopher 1 has dropped fork 1
+2018-04-05 12:23:56.027 [Thread-2] [TRACE] Philosopher 1 is waiting...
+2018-04-05 12:23:56.027 [Thread-1] [DEBUG] Philosopher 0 picked up Fork 1
+2018-04-05 12:23:56.027 [Thread-1] [INFO ] Philosopher 0 is eating.
+2018-04-05 12:23:56.027 [Thread-1] [DEBUG] Philosopher 0 has dropped fork 1
+2018-04-05 12:23:56.027 [Thread-1] [DEBUG] Philosopher 0 has dropped fork 0
+2018-04-05 12:23:56.027 [Thread-1] [TRACE] Philosopher 0 is waiting...
+2018-04-05 12:23:56.027 [Thread-5] [DEBUG] Philosopher 4 picked up Fork 0
+2018-04-05 12:23:56.027 [Thread-5] [DEBUG] Philosopher 4 picked up Fork 4
+2018-04-05 12:23:56.027 [Thread-5] [INFO ] Philosopher 4 is eating.
+2018-04-05 12:23:56.027 [Thread-5] [DEBUG] Philosopher 4 has dropped fork 4
+2018-04-05 12:23:56.027 [Thread-5] [DEBUG] Philosopher 4 has dropped fork 0
+2018-04-05 12:23:56.027 [Thread-5] [TRACE] Philosopher 4 is waiting...
+2018-04-05 12:23:58.028 [Thread-3] [DEBUG] Philosopher 2 picked up Fork 2
+2018-04-05 12:23:58.028 [Thread-5] [DEBUG] Philosopher 4 picked up Fork 0
+2018-04-05 12:23:58.028 [Thread-4] [DEBUG] Philosopher 3 picked up Fork 3
+2018-04-05 12:23:58.028 [Thread-2] [DEBUG] Philosopher 1 picked up Fork 1
+2018-04-05 12:23:58.028 [Thread-5] [DEBUG] Philosopher 4 picked up Fork 4
+2018-04-05 12:23:58.029 [Thread-5] [INFO ] Philosopher 4 is eating.
+2018-04-05 12:23:58.029 [Thread-5] [DEBUG] Philosopher 4 has dropped fork 4
+2018-04-05 12:23:58.029 [Thread-5] [DEBUG] Philosopher 4 has dropped fork 0
+2018-04-05 12:23:58.029 [Thread-4] [DEBUG] Philosopher 3 picked up Fork 4
+2018-04-05 12:23:58.029 [Thread-5] [TRACE] Philosopher 4 is waiting...
+2018-04-05 12:23:58.029 [Thread-4] [INFO ] Philosopher 3 is eating.
+2018-04-05 12:23:58.029 [Thread-1] [DEBUG] Philosopher 0 picked up Fork 0
+2018-04-05 12:23:58.030 [Thread-4] [DEBUG] Philosopher 3 has dropped fork 4
+2018-04-05 12:23:58.030 [Thread-4] [DEBUG] Philosopher 3 has dropped fork 3
+2018-04-05 12:23:58.030 [Thread-4] [TRACE] Philosopher 3 is waiting...
+2018-04-05 12:23:58.030 [Thread-3] [DEBUG] Philosopher 2 picked up Fork 3
+2018-04-05 12:23:58.030 [Thread-3] [INFO ] Philosopher 2 is eating.
+2018-04-05 12:23:58.030 [Thread-3] [DEBUG] Philosopher 2 has dropped fork 3
+2018-04-05 12:23:58.030 [Thread-3] [DEBUG] Philosopher 2 has dropped fork 2
+2018-04-05 12:23:58.030 [Thread-3] [TRACE] Philosopher 2 is waiting...
+2018-04-05 12:23:58.030 [Thread-2] [DEBUG] Philosopher 1 picked up Fork 2
+2018-04-05 12:23:58.030 [Thread-2] [INFO ] Philosopher 1 is eating.
+2018-04-05 12:23:58.030 [Thread-2] [DEBUG] Philosopher 1 has dropped fork 2
+2018-04-05 12:23:58.030 [Thread-2] [DEBUG] Philosopher 1 has dropped fork 1
+2018-04-05 12:23:58.030 [Thread-2] [TRACE] Philosopher 1 is waiting...
+2018-04-05 12:23:58.030 [Thread-1] [DEBUG] Philosopher 0 picked up Fork 1
+2018-04-05 12:23:58.030 [Thread-1] [INFO ] Philosopher 0 is eating.
+2018-04-05 12:23:58.030 [Thread-1] [DEBUG] Philosopher 0 has dropped fork 1
+2018-04-05 12:23:58.030 [Thread-1] [DEBUG] Philosopher 0 has dropped fork 0
+2018-04-05 12:23:58.030 [Thread-1] [TRACE] Philosopher 0 is waiting...
